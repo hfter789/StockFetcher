@@ -1,0 +1,4778 @@
+[
+  {
+    "marketCap": 1000000,
+    "symbol": "AUMAW"
+  },
+  {
+    "marketCap": 1200000,
+    "symbol": "QKLS"
+  },
+  {
+    "marketCap": 2300000,
+    "symbol": "AMCO"
+  },
+  {
+    "marketCap": 2500000,
+    "symbol": "BDR"
+  },
+  {
+    "marketCap": 2700000,
+    "symbol": "XGTI"
+  },
+  {
+    "marketCap": 2700000,
+    "symbol": "LEI"
+  },
+  {
+    "marketCap": 2900000,
+    "symbol": "ENRJ"
+  },
+  {
+    "marketCap": 2900000,
+    "symbol": "GLBS"
+  },
+  {
+    "marketCap": 3100000,
+    "symbol": "PRGN"
+  },
+  {
+    "marketCap": 3200000,
+    "symbol": "SCON"
+  },
+  {
+    "marketCap": 3300000,
+    "symbol": "DRAM"
+  },
+  {
+    "marketCap": 3400000,
+    "symbol": "TLR"
+  },
+  {
+    "marketCap": 3500000,
+    "symbol": "DXM"
+  },
+  {
+    "marketCap": 3600000,
+    "symbol": "DOM"
+  },
+  {
+    "marketCap": 3800000,
+    "symbol": "AXPW"
+  },
+  {
+    "marketCap": 3900000,
+    "symbol": "IOTS"
+  },
+  {
+    "marketCap": 3900000,
+    "symbol": "WPCS"
+  },
+  {
+    "marketCap": 3900000,
+    "symbol": "CADC"
+  },
+  {
+    "marketCap": 4000000,
+    "symbol": "DPW"
+  },
+  {
+    "marketCap": 4000000,
+    "symbol": "HMNY"
+  },
+  {
+    "marketCap": 4099999.9999999995,
+    "symbol": "GNOW"
+  },
+  {
+    "marketCap": 4099999.9999999995,
+    "symbol": "INVT"
+  },
+  {
+    "marketCap": 4200000,
+    "symbol": "OPTT"
+  },
+  {
+    "marketCap": 4300000,
+    "symbol": "DGSE"
+  },
+  {
+    "marketCap": 4300000,
+    "symbol": "OPHC"
+  },
+  {
+    "marketCap": 4400000,
+    "symbol": "IGC"
+  },
+  {
+    "marketCap": 4400000,
+    "symbol": "BOSC"
+  },
+  {
+    "marketCap": 4600000,
+    "symbol": "MGT"
+  },
+  {
+    "marketCap": 4600000,
+    "symbol": "MXC"
+  },
+  {
+    "marketCap": 4700000,
+    "symbol": "KONE"
+  },
+  {
+    "marketCap": 4700000,
+    "symbol": "LLEX"
+  },
+  {
+    "marketCap": 4800000,
+    "symbol": "SPEX"
+  },
+  {
+    "marketCap": 4900000,
+    "symbol": "PRXI"
+  },
+  {
+    "marketCap": 5100000,
+    "symbol": "CHCI"
+  },
+  {
+    "marketCap": 5200000,
+    "symbol": "BLIN"
+  },
+  {
+    "marketCap": 5400000,
+    "symbol": "TAIT"
+  },
+  {
+    "marketCap": 5600000,
+    "symbol": "THST"
+  },
+  {
+    "marketCap": 5800000,
+    "symbol": "RGSE"
+  },
+  {
+    "marketCap": 5900000,
+    "symbol": "ROYL"
+  },
+  {
+    "marketCap": 5900000,
+    "symbol": "MGN"
+  },
+  {
+    "marketCap": 6000000,
+    "symbol": "TCCO"
+  },
+  {
+    "marketCap": 6200000,
+    "symbol": "MEIL"
+  },
+  {
+    "marketCap": 6300000,
+    "symbol": "TOR"
+  },
+  {
+    "marketCap": 6300000,
+    "symbol": "GRH"
+  },
+  {
+    "marketCap": 6300000,
+    "symbol": "ARCI"
+  },
+  {
+    "marketCap": 6300000,
+    "symbol": "CALI"
+  },
+  {
+    "marketCap": 6300000,
+    "symbol": "CLNT"
+  },
+  {
+    "marketCap": 6300000,
+    "symbol": "NSPR"
+  },
+  {
+    "marketCap": 6400000,
+    "symbol": "PRSN"
+  },
+  {
+    "marketCap": 6400000,
+    "symbol": "WGA"
+  },
+  {
+    "marketCap": 6500000,
+    "symbol": "CCCR"
+  },
+  {
+    "marketCap": 6700000,
+    "symbol": "TPI"
+  },
+  {
+    "marketCap": 7100000,
+    "symbol": "RADA"
+  },
+  {
+    "marketCap": 7100000,
+    "symbol": "RLJE"
+  },
+  {
+    "marketCap": 7100000,
+    "symbol": "CLWT"
+  },
+  {
+    "marketCap": 7200000,
+    "symbol": "CDOR"
+  },
+  {
+    "marketCap": 7200000,
+    "symbol": "PW"
+  },
+  {
+    "marketCap": 7300000,
+    "symbol": "FES"
+  },
+  {
+    "marketCap": 7300000,
+    "symbol": "SPDC"
+  },
+  {
+    "marketCap": 7300000,
+    "symbol": "CERE"
+  },
+  {
+    "marketCap": 7600000,
+    "symbol": "PED"
+  },
+  {
+    "marketCap": 7700000,
+    "symbol": "FPP"
+  },
+  {
+    "marketCap": 7700000,
+    "symbol": "AKER"
+  },
+  {
+    "marketCap": 7800000,
+    "symbol": "SGOC"
+  },
+  {
+    "marketCap": 7800000,
+    "symbol": "BNSO"
+  },
+  {
+    "marketCap": 7800000,
+    "symbol": "CLRB"
+  },
+  {
+    "marketCap": 7800000,
+    "symbol": "SSN"
+  },
+  {
+    "marketCap": 7900000,
+    "symbol": "SMIT"
+  },
+  {
+    "marketCap": 8000000,
+    "symbol": "RELV"
+  },
+  {
+    "marketCap": 8000000,
+    "symbol": "DYNT"
+  },
+  {
+    "marketCap": 8100000,
+    "symbol": "HH"
+  },
+  {
+    "marketCap": 8199999.999999999,
+    "symbol": "LBIX"
+  },
+  {
+    "marketCap": 8199999.999999999,
+    "symbol": "LPTN"
+  },
+  {
+    "marketCap": 8199999.999999999,
+    "symbol": "AWX"
+  },
+  {
+    "marketCap": 8199999.999999999,
+    "symbol": "IDN"
+  },
+  {
+    "marketCap": 8300000.000000001,
+    "symbol": "DXI"
+  },
+  {
+    "marketCap": 8300000.000000001,
+    "symbol": "GJP"
+  },
+  {
+    "marketCap": 8300000.000000001,
+    "symbol": "MGH"
+  },
+  {
+    "marketCap": 8400000,
+    "symbol": "PHMD"
+  },
+  {
+    "marketCap": 8400000,
+    "symbol": "SGNL"
+  },
+  {
+    "marketCap": 8600000,
+    "symbol": "SINO"
+  },
+  {
+    "marketCap": 8600000,
+    "symbol": "BSPM"
+  },
+  {
+    "marketCap": 8700000,
+    "symbol": "DCTH"
+  },
+  {
+    "marketCap": 8800000,
+    "symbol": "EOX"
+  },
+  {
+    "marketCap": 8800000,
+    "symbol": "IPDN"
+  },
+  {
+    "marketCap": 8800000,
+    "symbol": "CETC"
+  },
+  {
+    "marketCap": 8900000,
+    "symbol": "SFY"
+  },
+  {
+    "marketCap": 9000000,
+    "symbol": "XCOM"
+  },
+  {
+    "marketCap": 9000000,
+    "symbol": "PZG"
+  },
+  {
+    "marketCap": 9100000,
+    "symbol": "CPHI"
+  },
+  {
+    "marketCap": 9100000,
+    "symbol": "CBMX"
+  },
+  {
+    "marketCap": 9200000,
+    "symbol": "PDII"
+  },
+  {
+    "marketCap": 9200000,
+    "symbol": "RCON"
+  },
+  {
+    "marketCap": 9200000,
+    "symbol": "TSRI"
+  },
+  {
+    "marketCap": 9400000,
+    "symbol": "FFHL"
+  },
+  {
+    "marketCap": 9400000,
+    "symbol": "TRT"
+  },
+  {
+    "marketCap": 9500000,
+    "symbol": "CNYD"
+  },
+  {
+    "marketCap": 9600000,
+    "symbol": "AHPI"
+  },
+  {
+    "marketCap": 9600000,
+    "symbol": "APPY"
+  },
+  {
+    "marketCap": 9900000,
+    "symbol": "DSS"
+  },
+  {
+    "marketCap": 9900000,
+    "symbol": "PDEX"
+  },
+  {
+    "marketCap": 9900000,
+    "symbol": "HUSA"
+  },
+  {
+    "marketCap": 9900000,
+    "symbol": "COOL"
+  },
+  {
+    "marketCap": 10100000,
+    "symbol": "AMS"
+  },
+  {
+    "marketCap": 10100000,
+    "symbol": "QBAK"
+  },
+  {
+    "marketCap": 10300000,
+    "symbol": "LGL"
+  },
+  {
+    "marketCap": 10400000,
+    "symbol": "SSY"
+  },
+  {
+    "marketCap": 10600000,
+    "symbol": "MARPS"
+  },
+  {
+    "marketCap": 10600000,
+    "symbol": "TGC"
+  },
+  {
+    "marketCap": 10700000,
+    "symbol": "BGI"
+  },
+  {
+    "marketCap": 10700000,
+    "symbol": "COYN"
+  },
+  {
+    "marketCap": 10800000,
+    "symbol": "NXTD"
+  },
+  {
+    "marketCap": 11000000,
+    "symbol": "MDVX"
+  },
+  {
+    "marketCap": 11000000,
+    "symbol": "AUMN"
+  },
+  {
+    "marketCap": 11000000,
+    "symbol": "UUU"
+  },
+  {
+    "marketCap": 11100000,
+    "symbol": "DRWI"
+  },
+  {
+    "marketCap": 11100000,
+    "symbol": "REE"
+  },
+  {
+    "marketCap": 11200000,
+    "symbol": "GRVY"
+  },
+  {
+    "marketCap": 11300000,
+    "symbol": "UNXL"
+  },
+  {
+    "marketCap": 11300000,
+    "symbol": "GJO"
+  },
+  {
+    "marketCap": 11400000,
+    "symbol": "PRZM"
+  },
+  {
+    "marketCap": 11400000,
+    "symbol": "LEU"
+  },
+  {
+    "marketCap": 11400000,
+    "symbol": "RNO"
+  },
+  {
+    "marketCap": 11600000,
+    "symbol": "MELA"
+  },
+  {
+    "marketCap": 11600000,
+    "symbol": "SKBI"
+  },
+  {
+    "marketCap": 11700000,
+    "symbol": "CRVP"
+  },
+  {
+    "marketCap": 11700000,
+    "symbol": "MICT"
+  },
+  {
+    "marketCap": 11700000,
+    "symbol": "NBY"
+  },
+  {
+    "marketCap": 11900000,
+    "symbol": "DAKP"
+  },
+  {
+    "marketCap": 11900000,
+    "symbol": "HMG"
+  },
+  {
+    "marketCap": 12000000,
+    "symbol": "GIGA"
+  },
+  {
+    "marketCap": 12100000,
+    "symbol": "TAS"
+  },
+  {
+    "marketCap": 12200000,
+    "symbol": "THTI"
+  },
+  {
+    "marketCap": 12200000,
+    "symbol": "ARTW"
+  },
+  {
+    "marketCap": 12400000,
+    "symbol": "MTR"
+  },
+  {
+    "marketCap": 12500000,
+    "symbol": "WSCI"
+  },
+  {
+    "marketCap": 12500000,
+    "symbol": "SMLR"
+  },
+  {
+    "marketCap": 12600000,
+    "symbol": "GSI"
+  },
+  {
+    "marketCap": 12600000,
+    "symbol": "BASI"
+  },
+  {
+    "marketCap": 12600000,
+    "symbol": "BVXV"
+  },
+  {
+    "marketCap": 13000000,
+    "symbol": "ATOS"
+  },
+  {
+    "marketCap": 13100000,
+    "symbol": "AVL"
+  },
+  {
+    "marketCap": 13300000,
+    "symbol": "LEDS"
+  },
+  {
+    "marketCap": 13400000,
+    "symbol": "CPAH"
+  },
+  {
+    "marketCap": 13700000,
+    "symbol": "NTN"
+  },
+  {
+    "marketCap": 13900000,
+    "symbol": "JOEZ"
+  },
+  {
+    "marketCap": 13900000,
+    "symbol": "TOPS"
+  },
+  {
+    "marketCap": 13900000,
+    "symbol": "AMDA"
+  },
+  {
+    "marketCap": 14000000,
+    "symbol": "TBIO"
+  },
+  {
+    "marketCap": 14100000,
+    "symbol": "PAAC"
+  },
+  {
+    "marketCap": 14200000,
+    "symbol": "ACY"
+  },
+  {
+    "marketCap": 14300000,
+    "symbol": "FORD"
+  },
+  {
+    "marketCap": 14500000,
+    "symbol": "TIL"
+  },
+  {
+    "marketCap": 14500000,
+    "symbol": "TORM"
+  },
+  {
+    "marketCap": 14500000,
+    "symbol": "DHRM"
+  },
+  {
+    "marketCap": 14600000,
+    "symbol": "KOSS"
+  },
+  {
+    "marketCap": 15000000,
+    "symbol": "YUMA"
+  },
+  {
+    "marketCap": 15000000,
+    "symbol": "SDPI"
+  },
+  {
+    "marketCap": 15100000,
+    "symbol": "CTIB"
+  },
+  {
+    "marketCap": 15200000,
+    "symbol": "WRES"
+  },
+  {
+    "marketCap": 15300000,
+    "symbol": "HRT"
+  },
+  {
+    "marketCap": 15400000,
+    "symbol": "CRDC"
+  },
+  {
+    "marketCap": 15500000,
+    "symbol": "GDP"
+  },
+  {
+    "marketCap": 15600000,
+    "symbol": "KOOL"
+  },
+  {
+    "marketCap": 15800000,
+    "symbol": "LTBR"
+  },
+  {
+    "marketCap": 15800000,
+    "symbol": "SKLN"
+  },
+  {
+    "marketCap": 15900000,
+    "symbol": "ISH"
+  },
+  {
+    "marketCap": 16000000,
+    "symbol": "ELMD"
+  },
+  {
+    "marketCap": 16000000,
+    "symbol": "IDSA"
+  },
+  {
+    "marketCap": 16100000.000000002,
+    "symbol": "SPRO"
+  },
+  {
+    "marketCap": 16100000.000000002,
+    "symbol": "SYRX"
+  },
+  {
+    "marketCap": 16200000,
+    "symbol": "PRKR"
+  },
+  {
+    "marketCap": 16200000,
+    "symbol": "ECTE"
+  },
+  {
+    "marketCap": 16300000,
+    "symbol": "CSUN"
+  },
+  {
+    "marketCap": 16500000,
+    "symbol": "AETI"
+  },
+  {
+    "marketCap": 16600000.000000002,
+    "symbol": "CARV"
+  },
+  {
+    "marketCap": 16600000.000000002,
+    "symbol": "TIK"
+  },
+  {
+    "marketCap": 16700000,
+    "symbol": "MDGS"
+  },
+  {
+    "marketCap": 16800000,
+    "symbol": "BRN"
+  },
+  {
+    "marketCap": 16900000,
+    "symbol": "ISDR"
+  },
+  {
+    "marketCap": 17100000,
+    "symbol": "RTTR"
+  },
+  {
+    "marketCap": 17100000,
+    "symbol": "JBR"
+  },
+  {
+    "marketCap": 17100000,
+    "symbol": "PGN"
+  },
+  {
+    "marketCap": 17300000,
+    "symbol": "LTRX"
+  },
+  {
+    "marketCap": 17300000,
+    "symbol": "STAF"
+  },
+  {
+    "marketCap": 17300000,
+    "symbol": "DARA"
+  },
+  {
+    "marketCap": 17400000,
+    "symbol": "HIHO"
+  },
+  {
+    "marketCap": 17500000,
+    "symbol": "ROSG"
+  },
+  {
+    "marketCap": 17600000,
+    "symbol": "OSN"
+  },
+  {
+    "marketCap": 17700000,
+    "symbol": "GLOW"
+  },
+  {
+    "marketCap": 17800000,
+    "symbol": "GLRI"
+  },
+  {
+    "marketCap": 17800000,
+    "symbol": "INVE"
+  },
+  {
+    "marketCap": 17800000,
+    "symbol": "ALXA"
+  },
+  {
+    "marketCap": 17900000,
+    "symbol": "JAGX"
+  },
+  {
+    "marketCap": 17900000,
+    "symbol": "HELI"
+  },
+  {
+    "marketCap": 18000000,
+    "symbol": "TFSC"
+  },
+  {
+    "marketCap": 18000000,
+    "symbol": "BHAC"
+  },
+  {
+    "marketCap": 18000000,
+    "symbol": "BIOD"
+  },
+  {
+    "marketCap": 18000000,
+    "symbol": "CNLM"
+  },
+  {
+    "marketCap": 18000000,
+    "symbol": "CYRX"
+  },
+  {
+    "marketCap": 18100000,
+    "symbol": "SPU"
+  },
+  {
+    "marketCap": 18400000,
+    "symbol": "WHZ"
+  },
+  {
+    "marketCap": 18500000,
+    "symbol": "ISNS"
+  },
+  {
+    "marketCap": 18500000,
+    "symbol": "SAJA"
+  },
+  {
+    "marketCap": 18500000,
+    "symbol": "SVT"
+  },
+  {
+    "marketCap": 18700000,
+    "symbol": "VII"
+  },
+  {
+    "marketCap": 18800000,
+    "symbol": "ESNC"
+  },
+  {
+    "marketCap": 18800000,
+    "symbol": "GROW"
+  },
+  {
+    "marketCap": 18800000,
+    "symbol": "ASTI"
+  },
+  {
+    "marketCap": 18900000,
+    "symbol": "SWSH"
+  },
+  {
+    "marketCap": 19000000,
+    "symbol": "FSNN"
+  },
+  {
+    "marketCap": 19000000,
+    "symbol": "OCLS"
+  },
+  {
+    "marketCap": 19200000,
+    "symbol": "MOKO"
+  },
+  {
+    "marketCap": 19200000,
+    "symbol": "XPL"
+  },
+  {
+    "marketCap": 19400000,
+    "symbol": "PSUN"
+  },
+  {
+    "marketCap": 19400000,
+    "symbol": "RLOC"
+  },
+  {
+    "marketCap": 19700000,
+    "symbol": "OBCI"
+  },
+  {
+    "marketCap": 19800000,
+    "symbol": "IFON"
+  },
+  {
+    "marketCap": 20000000,
+    "symbol": "IHT"
+  },
+  {
+    "marketCap": 20100000,
+    "symbol": "PBM"
+  },
+  {
+    "marketCap": 20300000,
+    "symbol": "CKX"
+  },
+  {
+    "marketCap": 20300000,
+    "symbol": "CDTI"
+  },
+  {
+    "marketCap": 20400000,
+    "symbol": "IFMI"
+  },
+  {
+    "marketCap": 20400000,
+    "symbol": "CYCC"
+  },
+  {
+    "marketCap": 20500000,
+    "symbol": "CSPI"
+  },
+  {
+    "marketCap": 20700000,
+    "symbol": "BDMS"
+  },
+  {
+    "marketCap": 20700000,
+    "symbol": "NES"
+  },
+  {
+    "marketCap": 20800000,
+    "symbol": "GEVO"
+  },
+  {
+    "marketCap": 20800000,
+    "symbol": "OCC"
+  },
+  {
+    "marketCap": 20800000,
+    "symbol": "OPXA"
+  },
+  {
+    "marketCap": 20800000,
+    "symbol": "RIBT"
+  },
+  {
+    "marketCap": 20900000,
+    "symbol": "EYEG"
+  },
+  {
+    "marketCap": 21100000,
+    "symbol": "STXS"
+  },
+  {
+    "marketCap": 21300000,
+    "symbol": "HTBX"
+  },
+  {
+    "marketCap": 21300000,
+    "symbol": "XTLB"
+  },
+  {
+    "marketCap": 21400000,
+    "symbol": "BSI"
+  },
+  {
+    "marketCap": 21400000,
+    "symbol": "CFBK"
+  },
+  {
+    "marketCap": 21400000,
+    "symbol": "DAIO"
+  },
+  {
+    "marketCap": 21500000,
+    "symbol": "OTIV"
+  },
+  {
+    "marketCap": 21500000,
+    "symbol": "COSI"
+  },
+  {
+    "marketCap": 21500000,
+    "symbol": "DGLY"
+  },
+  {
+    "marketCap": 21600000,
+    "symbol": "TOF"
+  },
+  {
+    "marketCap": 21700000,
+    "symbol": "CAW"
+  },
+  {
+    "marketCap": 21700000,
+    "symbol": "RESN"
+  },
+  {
+    "marketCap": 21800000,
+    "symbol": "CCCL"
+  },
+  {
+    "marketCap": 21900000,
+    "symbol": "IKNX"
+  },
+  {
+    "marketCap": 22000000,
+    "symbol": "TWER"
+  },
+  {
+    "marketCap": 22200000,
+    "symbol": "CAPN"
+  },
+  {
+    "marketCap": 22300000,
+    "symbol": "OPGN"
+  },
+  {
+    "marketCap": 22300000,
+    "symbol": "DSWL"
+  },
+  {
+    "marketCap": 22500000,
+    "symbol": "HOTR"
+  },
+  {
+    "marketCap": 22500000,
+    "symbol": "ICCC"
+  },
+  {
+    "marketCap": 22500000,
+    "symbol": "MCUR"
+  },
+  {
+    "marketCap": 22500000,
+    "symbol": "PRPH"
+  },
+  {
+    "marketCap": 22600000,
+    "symbol": "CRTN"
+  },
+  {
+    "marketCap": 22600000,
+    "symbol": "UAMY"
+  },
+  {
+    "marketCap": 22800000,
+    "symbol": "ACST"
+  },
+  {
+    "marketCap": 22800000,
+    "symbol": "AEY"
+  },
+  {
+    "marketCap": 22900000,
+    "symbol": "MOC"
+  },
+  {
+    "marketCap": 23000000,
+    "symbol": "WVFC"
+  },
+  {
+    "marketCap": 23000000,
+    "symbol": "OTEL"
+  },
+  {
+    "marketCap": 23100000,
+    "symbol": "ATLS"
+  },
+  {
+    "marketCap": 23100000,
+    "symbol": "ATEC"
+  },
+  {
+    "marketCap": 23300000,
+    "symbol": "IMNP"
+  },
+  {
+    "marketCap": 23300000,
+    "symbol": "ITUS"
+  },
+  {
+    "marketCap": 23400000,
+    "symbol": "GAI"
+  },
+  {
+    "marketCap": 23400000,
+    "symbol": "DLHC"
+  },
+  {
+    "marketCap": 23500000,
+    "symbol": "QTWW"
+  },
+  {
+    "marketCap": 23600000,
+    "symbol": "FSAM"
+  },
+  {
+    "marketCap": 23600000,
+    "symbol": "SMTX"
+  },
+  {
+    "marketCap": 23600000,
+    "symbol": "CPST"
+  },
+  {
+    "marketCap": 23600000,
+    "symbol": "XNY"
+  },
+  {
+    "marketCap": 23900000,
+    "symbol": "EVI"
+  },
+  {
+    "marketCap": 23900000,
+    "symbol": "OXGN"
+  },
+  {
+    "marketCap": 23900000,
+    "symbol": "CETX"
+  },
+  {
+    "marketCap": 24000000,
+    "symbol": "RAND"
+  },
+  {
+    "marketCap": 24100000,
+    "symbol": "RXII"
+  },
+  {
+    "marketCap": 24300000,
+    "symbol": "GBIM"
+  },
+  {
+    "marketCap": 24300000,
+    "symbol": "GJS"
+  },
+  {
+    "marketCap": 24400000,
+    "symbol": "CVR"
+  },
+  {
+    "marketCap": 24400000,
+    "symbol": "GMO"
+  },
+  {
+    "marketCap": 24500000,
+    "symbol": "FFNM"
+  },
+  {
+    "marketCap": 24600000,
+    "symbol": "GBSN"
+  },
+  {
+    "marketCap": 24600000,
+    "symbol": "JCTCF"
+  },
+  {
+    "marketCap": 24600000,
+    "symbol": "AEHR"
+  },
+  {
+    "marketCap": 24600000,
+    "symbol": "VGZ"
+  },
+  {
+    "marketCap": 24700000,
+    "symbol": "QCCO"
+  },
+  {
+    "marketCap": 24800000,
+    "symbol": "CUO"
+  },
+  {
+    "marketCap": 24800000,
+    "symbol": "WRN"
+  },
+  {
+    "marketCap": 24900000,
+    "symbol": "PYDS"
+  },
+  {
+    "marketCap": 24900000,
+    "symbol": "ACUR"
+  },
+  {
+    "marketCap": 25000000,
+    "symbol": "AXU"
+  },
+  {
+    "marketCap": 25000000,
+    "symbol": "RMGN"
+  },
+  {
+    "marketCap": 25100000,
+    "symbol": "ROKA"
+  },
+  {
+    "marketCap": 25100000,
+    "symbol": "CNET"
+  },
+  {
+    "marketCap": 25100000,
+    "symbol": "CRDS"
+  },
+  {
+    "marketCap": 25200000,
+    "symbol": "AIII"
+  },
+  {
+    "marketCap": 25200000,
+    "symbol": "BPMX"
+  },
+  {
+    "marketCap": 25200000,
+    "symbol": "DSCO"
+  },
+  {
+    "marketCap": 25200000,
+    "symbol": "MPO"
+  },
+  {
+    "marketCap": 25400000,
+    "symbol": "INS"
+  },
+  {
+    "marketCap": 25400000,
+    "symbol": "PVA"
+  },
+  {
+    "marketCap": 25700000,
+    "symbol": "ACI"
+  },
+  {
+    "marketCap": 25700000,
+    "symbol": "CTHR"
+  },
+  {
+    "marketCap": 25800000,
+    "symbol": "NSAT"
+  },
+  {
+    "marketCap": 25800000,
+    "symbol": "THM"
+  },
+  {
+    "marketCap": 25900000,
+    "symbol": "ENSV"
+  },
+  {
+    "marketCap": 25900000,
+    "symbol": "RBCN"
+  },
+  {
+    "marketCap": 25900000,
+    "symbol": "SGRP"
+  },
+  {
+    "marketCap": 25900000,
+    "symbol": "BVA"
+  },
+  {
+    "marketCap": 26000000,
+    "symbol": "JGW"
+  },
+  {
+    "marketCap": 26100000,
+    "symbol": "QUMU"
+  },
+  {
+    "marketCap": 26100000,
+    "symbol": "GJR"
+  },
+  {
+    "marketCap": 26200000,
+    "symbol": "SOFO"
+  },
+  {
+    "marketCap": 26200000,
+    "symbol": "CIDM"
+  },
+  {
+    "marketCap": 26300000,
+    "symbol": "ADGE"
+  },
+  {
+    "marketCap": 26300000,
+    "symbol": "WTT"
+  },
+  {
+    "marketCap": 26400000,
+    "symbol": "MARA"
+  },
+  {
+    "marketCap": 26500000,
+    "symbol": "APWC"
+  },
+  {
+    "marketCap": 26800000,
+    "symbol": "ONVI"
+  },
+  {
+    "marketCap": 26800000,
+    "symbol": "SGMA"
+  },
+  {
+    "marketCap": 26900000,
+    "symbol": "HART"
+  },
+  {
+    "marketCap": 26900000,
+    "symbol": "SSH"
+  },
+  {
+    "marketCap": 26900000,
+    "symbol": "BLFS"
+  },
+  {
+    "marketCap": 27000000,
+    "symbol": "ALTV"
+  },
+  {
+    "marketCap": 27000000,
+    "symbol": "OMEX"
+  },
+  {
+    "marketCap": 27100000,
+    "symbol": "MSN"
+  },
+  {
+    "marketCap": 27200000,
+    "symbol": "DYSL"
+  },
+  {
+    "marketCap": 27300000,
+    "symbol": "ADAT"
+  },
+  {
+    "marketCap": 27300000,
+    "symbol": "CZFC"
+  },
+  {
+    "marketCap": 27500000,
+    "symbol": "JVA"
+  },
+  {
+    "marketCap": 27600000,
+    "symbol": "LUNA"
+  },
+  {
+    "marketCap": 27900000,
+    "symbol": "RITT"
+  },
+  {
+    "marketCap": 27900000,
+    "symbol": "UQM"
+  },
+  {
+    "marketCap": 28000000,
+    "symbol": "HEB"
+  },
+  {
+    "marketCap": 28000000,
+    "symbol": "CHEK"
+  },
+  {
+    "marketCap": 28300000,
+    "symbol": "SYPR"
+  },
+  {
+    "marketCap": 28400000,
+    "symbol": "MDLY"
+  },
+  {
+    "marketCap": 28500000,
+    "symbol": "MGCD"
+  },
+  {
+    "marketCap": 28500000,
+    "symbol": "IOT"
+  },
+  {
+    "marketCap": 28500000,
+    "symbol": "BNTC"
+  },
+  {
+    "marketCap": 28600000,
+    "symbol": "CART"
+  },
+  {
+    "marketCap": 28700000,
+    "symbol": "SIEB"
+  },
+  {
+    "marketCap": 28800000,
+    "symbol": "HDRA"
+  },
+  {
+    "marketCap": 28800000,
+    "symbol": "LIME"
+  },
+  {
+    "marketCap": 28900000,
+    "symbol": "REDF"
+  },
+  {
+    "marketCap": 28900000,
+    "symbol": "SHSP"
+  },
+  {
+    "marketCap": 29000000,
+    "symbol": "ECT"
+  },
+  {
+    "marketCap": 29000000,
+    "symbol": "SKY"
+  },
+  {
+    "marketCap": 29200000,
+    "symbol": "BVSN"
+  },
+  {
+    "marketCap": 29400000,
+    "symbol": "STRM"
+  },
+  {
+    "marketCap": 29400000,
+    "symbol": "BWEN"
+  },
+  {
+    "marketCap": 29400000,
+    "symbol": "MCZ"
+  },
+  {
+    "marketCap": 29400000,
+    "symbol": "RCAP"
+  },
+  {
+    "marketCap": 29500000,
+    "symbol": "LPTH"
+  },
+  {
+    "marketCap": 29600000,
+    "symbol": "SFXE"
+  },
+  {
+    "marketCap": 29600000,
+    "symbol": "CYAN"
+  },
+  {
+    "marketCap": 29900000,
+    "symbol": "BIOC"
+  },
+  {
+    "marketCap": 29900000,
+    "symbol": "CBIO"
+  },
+  {
+    "marketCap": 29900000,
+    "symbol": "UWN"
+  },
+  {
+    "marketCap": 30100000,
+    "symbol": "ARWA"
+  },
+  {
+    "marketCap": 30200000,
+    "symbol": "ANAD"
+  },
+  {
+    "marketCap": 30300000,
+    "symbol": "SPHS"
+  },
+  {
+    "marketCap": 30400000,
+    "symbol": "VSR"
+  },
+  {
+    "marketCap": 30400000,
+    "symbol": "TRX"
+  },
+  {
+    "marketCap": 30600000,
+    "symbol": "CERC"
+  },
+  {
+    "marketCap": 30600000,
+    "symbol": "CPSH"
+  },
+  {
+    "marketCap": 30700000,
+    "symbol": "AAMC"
+  },
+  {
+    "marketCap": 30700000,
+    "symbol": "CGIX"
+  },
+  {
+    "marketCap": 30900000,
+    "symbol": "DXR"
+  },
+  {
+    "marketCap": 30900000,
+    "symbol": "PPSI"
+  },
+  {
+    "marketCap": 30900000,
+    "symbol": "URRE"
+  },
+  {
+    "marketCap": 31000000,
+    "symbol": "FNJN"
+  },
+  {
+    "marketCap": 31000000,
+    "symbol": "CHLN"
+  },
+  {
+    "marketCap": 31000000,
+    "symbol": "PQ"
+  },
+  {
+    "marketCap": 31100000,
+    "symbol": "SHIP"
+  },
+  {
+    "marketCap": 31100000,
+    "symbol": "CREG"
+  },
+  {
+    "marketCap": 31200000,
+    "symbol": "CAMB"
+  },
+  {
+    "marketCap": 31400000,
+    "symbol": "ACPW"
+  },
+  {
+    "marketCap": 31600000,
+    "symbol": "LOAN"
+  },
+  {
+    "marketCap": 31600000,
+    "symbol": "BORN"
+  },
+  {
+    "marketCap": 31600000,
+    "symbol": "ASUR"
+  },
+  {
+    "marketCap": 31700000,
+    "symbol": "APT"
+  },
+  {
+    "marketCap": 31700000,
+    "symbol": "PFIN"
+  },
+  {
+    "marketCap": 31800000,
+    "symbol": "HNR"
+  },
+  {
+    "marketCap": 32000000,
+    "symbol": "ZSAN"
+  },
+  {
+    "marketCap": 32000000,
+    "symbol": "APHB"
+  },
+  {
+    "marketCap": 32100000,
+    "symbol": "ARO"
+  },
+  {
+    "marketCap": 32200000.000000004,
+    "symbol": "FLL"
+  },
+  {
+    "marketCap": 32200000.000000004,
+    "symbol": "WVE"
+  },
+  {
+    "marketCap": 32299999.999999996,
+    "symbol": "EMXX"
+  },
+  {
+    "marketCap": 32299999.999999996,
+    "symbol": "GIGM"
+  },
+  {
+    "marketCap": 32299999.999999996,
+    "symbol": "CBAY"
+  },
+  {
+    "marketCap": 32400000,
+    "symbol": "FWM"
+  },
+  {
+    "marketCap": 32400000,
+    "symbol": "GLBZ"
+  },
+  {
+    "marketCap": 32400000,
+    "symbol": "HTGM"
+  },
+  {
+    "marketCap": 32400000,
+    "symbol": "RNVA"
+  },
+  {
+    "marketCap": 32500000,
+    "symbol": "ONTX"
+  },
+  {
+    "marketCap": 32600000,
+    "symbol": "TCPI"
+  },
+  {
+    "marketCap": 32700000.000000004,
+    "symbol": "CASI"
+  },
+  {
+    "marketCap": 32799999.999999996,
+    "symbol": "ICLD"
+  },
+  {
+    "marketCap": 32799999.999999996,
+    "symbol": "ONP"
+  },
+  {
+    "marketCap": 33000000,
+    "symbol": "GTWN"
+  },
+  {
+    "marketCap": 33000000,
+    "symbol": "CANF"
+  },
+  {
+    "marketCap": 33200000.000000004,
+    "symbol": "HJV"
+  },
+  {
+    "marketCap": 33299999.999999996,
+    "symbol": "DTRM"
+  },
+  {
+    "marketCap": 33400000,
+    "symbol": "CLDN"
+  },
+  {
+    "marketCap": 33400000,
+    "symbol": "XRA"
+  },
+  {
+    "marketCap": 33500000,
+    "symbol": "GJV"
+  },
+  {
+    "marketCap": 33500000,
+    "symbol": "MHH"
+  },
+  {
+    "marketCap": 33600000,
+    "symbol": "SEV"
+  },
+  {
+    "marketCap": 33700000,
+    "symbol": "ISIG"
+  },
+  {
+    "marketCap": 33800000,
+    "symbol": "DDE"
+  },
+  {
+    "marketCap": 34000000,
+    "symbol": "GVP"
+  },
+  {
+    "marketCap": 34100000,
+    "symbol": "ASM"
+  },
+  {
+    "marketCap": 34200000,
+    "symbol": "AAPC"
+  },
+  {
+    "marketCap": 34300000,
+    "symbol": "ASTC"
+  },
+  {
+    "marketCap": 34400000,
+    "symbol": "SMSI"
+  },
+  {
+    "marketCap": 34500000,
+    "symbol": "OGXI"
+  },
+  {
+    "marketCap": 34500000,
+    "symbol": "RPRX"
+  },
+  {
+    "marketCap": 34500000,
+    "symbol": "CJJD"
+  },
+  {
+    "marketCap": 34500000,
+    "symbol": "NCQ"
+  },
+  {
+    "marketCap": 34700000,
+    "symbol": "SBSA"
+  },
+  {
+    "marketCap": 34800000,
+    "symbol": "IEC"
+  },
+  {
+    "marketCap": 34800000,
+    "symbol": "JBN"
+  },
+  {
+    "marketCap": 34800000,
+    "symbol": "ARCW"
+  },
+  {
+    "marketCap": 34800000,
+    "symbol": "CSBR"
+  },
+  {
+    "marketCap": 35000000,
+    "symbol": "OHGI"
+  },
+  {
+    "marketCap": 35000000,
+    "symbol": "SEED"
+  },
+  {
+    "marketCap": 35100000,
+    "symbol": "ZX"
+  },
+  {
+    "marketCap": 35300000,
+    "symbol": "LIVE"
+  },
+  {
+    "marketCap": 35300000,
+    "symbol": "OXBR"
+  },
+  {
+    "marketCap": 35400000,
+    "symbol": "WVVI"
+  },
+  {
+    "marketCap": 35500000,
+    "symbol": "GNVC"
+  },
+  {
+    "marketCap": 35600000,
+    "symbol": "XTNT"
+  },
+  {
+    "marketCap": 35700000,
+    "symbol": "KUTV"
+  },
+  {
+    "marketCap": 35800000,
+    "symbol": "SMT"
+  },
+  {
+    "marketCap": 36000000,
+    "symbol": "EGI"
+  },
+  {
+    "marketCap": 36100000,
+    "symbol": "GENE"
+  },
+  {
+    "marketCap": 36100000,
+    "symbol": "KTOV"
+  },
+  {
+    "marketCap": 36200000,
+    "symbol": "MXPT"
+  },
+  {
+    "marketCap": 36300000,
+    "symbol": "IMUC"
+  },
+  {
+    "marketCap": 36300000,
+    "symbol": "CDRB"
+  },
+  {
+    "marketCap": 36400000,
+    "symbol": "ZHNE"
+  },
+  {
+    "marketCap": 36400000,
+    "symbol": "SSFN"
+  },
+  {
+    "marketCap": 36600000,
+    "symbol": "SUMR"
+  },
+  {
+    "marketCap": 36700000,
+    "symbol": "BDL"
+  },
+  {
+    "marketCap": 36700000,
+    "symbol": "CGNT"
+  },
+  {
+    "marketCap": 36800000,
+    "symbol": "JTPY"
+  },
+  {
+    "marketCap": 37200000,
+    "symbol": "AXR"
+  },
+  {
+    "marketCap": 37200000,
+    "symbol": "RLOG"
+  },
+  {
+    "marketCap": 37500000,
+    "symbol": "SAEX"
+  },
+  {
+    "marketCap": 37500000,
+    "symbol": "BEBE"
+  },
+  {
+    "marketCap": 37500000,
+    "symbol": "CLUB"
+  },
+  {
+    "marketCap": 37600000,
+    "symbol": "MDSY"
+  },
+  {
+    "marketCap": 37800000,
+    "symbol": "ABAC"
+  },
+  {
+    "marketCap": 38000000,
+    "symbol": "PBIB"
+  },
+  {
+    "marketCap": 38100000,
+    "symbol": "GWGH"
+  },
+  {
+    "marketCap": 38500000,
+    "symbol": "RFIL"
+  },
+  {
+    "marketCap": 38600000,
+    "symbol": "CNTF"
+  },
+  {
+    "marketCap": 38700000,
+    "symbol": "AAU"
+  },
+  {
+    "marketCap": 38700000,
+    "symbol": "INTT"
+  },
+  {
+    "marketCap": 39000000,
+    "symbol": "FORK"
+  },
+  {
+    "marketCap": 39100000,
+    "symbol": "SGB"
+  },
+  {
+    "marketCap": 39300000,
+    "symbol": "CHNR"
+  },
+  {
+    "marketCap": 39400000,
+    "symbol": "FRD"
+  },
+  {
+    "marketCap": 39400000,
+    "symbol": "TLOG"
+  },
+  {
+    "marketCap": 39400000,
+    "symbol": "BONT"
+  },
+  {
+    "marketCap": 39400000,
+    "symbol": "CNIT"
+  },
+  {
+    "marketCap": 39600000,
+    "symbol": "PBCP"
+  },
+  {
+    "marketCap": 39700000,
+    "symbol": "ARTX"
+  },
+  {
+    "marketCap": 39800000,
+    "symbol": "ISSC"
+  },
+  {
+    "marketCap": 39800000,
+    "symbol": "BLPH"
+  },
+  {
+    "marketCap": 39900000,
+    "symbol": "TRCH"
+  },
+  {
+    "marketCap": 40200000,
+    "symbol": "FHCO"
+  },
+  {
+    "marketCap": 40500000,
+    "symbol": "CBAK"
+  },
+  {
+    "marketCap": 40600000,
+    "symbol": "CBK"
+  },
+  {
+    "marketCap": 40600000,
+    "symbol": "SPP"
+  },
+  {
+    "marketCap": 40700000,
+    "symbol": "GV"
+  },
+  {
+    "marketCap": 40800000,
+    "symbol": "MBII"
+  },
+  {
+    "marketCap": 41000000,
+    "symbol": "OBAS"
+  },
+  {
+    "marketCap": 41000000,
+    "symbol": "ATLC"
+  },
+  {
+    "marketCap": 41300000,
+    "symbol": "MCEP"
+  },
+  {
+    "marketCap": 41400000,
+    "symbol": "PLBC"
+  },
+  {
+    "marketCap": 41600000,
+    "symbol": "HSGX"
+  },
+  {
+    "marketCap": 41700000,
+    "symbol": "CASM"
+  },
+  {
+    "marketCap": 41900000,
+    "symbol": "STLY"
+  },
+  {
+    "marketCap": 42000000,
+    "symbol": "ETAK"
+  },
+  {
+    "marketCap": 42000000,
+    "symbol": "MFRI"
+  },
+  {
+    "marketCap": 42300000,
+    "symbol": "BOTJ"
+  },
+  {
+    "marketCap": 42400000,
+    "symbol": "MELR"
+  },
+  {
+    "marketCap": 42400000,
+    "symbol": "PRAN"
+  },
+  {
+    "marketCap": 42400000,
+    "symbol": "CBLI"
+  },
+  {
+    "marketCap": 42500000,
+    "symbol": "UBCP"
+  },
+  {
+    "marketCap": 42700000,
+    "symbol": "CUBN"
+  },
+  {
+    "marketCap": 42800000,
+    "symbol": "ALN"
+  },
+  {
+    "marketCap": 42900000,
+    "symbol": "THLD"
+  },
+  {
+    "marketCap": 42900000,
+    "symbol": "CLSN"
+  },
+  {
+    "marketCap": 43000000,
+    "symbol": "GALT"
+  },
+  {
+    "marketCap": 43100000,
+    "symbol": "EAC"
+  },
+  {
+    "marketCap": 43200000,
+    "symbol": "MIND"
+  },
+  {
+    "marketCap": 43400000,
+    "symbol": "RBY"
+  },
+  {
+    "marketCap": 43500000,
+    "symbol": "ADK"
+  },
+  {
+    "marketCap": 43700000,
+    "symbol": "JXSB"
+  },
+  {
+    "marketCap": 43700000,
+    "symbol": "ONCS"
+  },
+  {
+    "marketCap": 43700000,
+    "symbol": "EBIO"
+  },
+  {
+    "marketCap": 43900000,
+    "symbol": "MCOX"
+  },
+  {
+    "marketCap": 43900000,
+    "symbol": "OIIM"
+  },
+  {
+    "marketCap": 44100000,
+    "symbol": "IIN"
+  },
+  {
+    "marketCap": 44100000,
+    "symbol": "STDY"
+  },
+  {
+    "marketCap": 44200000,
+    "symbol": "PTN"
+  },
+  {
+    "marketCap": 44400000,
+    "symbol": "TGD"
+  },
+  {
+    "marketCap": 44500000,
+    "symbol": "HRMN"
+  },
+  {
+    "marketCap": 44600000,
+    "symbol": "HIIQ"
+  },
+  {
+    "marketCap": 44600000,
+    "symbol": "KIQ"
+  },
+  {
+    "marketCap": 44700000,
+    "symbol": "BYFC"
+  },
+  {
+    "marketCap": 44700000,
+    "symbol": "EBMT"
+  },
+  {
+    "marketCap": 44800000,
+    "symbol": "HFBL"
+  },
+  {
+    "marketCap": 44800000,
+    "symbol": "OGEN"
+  },
+  {
+    "marketCap": 45000000,
+    "symbol": "PESI"
+  },
+  {
+    "marketCap": 45300000,
+    "symbol": "BAA"
+  },
+  {
+    "marketCap": 45400000,
+    "symbol": "HBK"
+  },
+  {
+    "marketCap": 45400000,
+    "symbol": "ALDX"
+  },
+  {
+    "marketCap": 45400000,
+    "symbol": "BIOL"
+  },
+  {
+    "marketCap": 45500000,
+    "symbol": "KEQU"
+  },
+  {
+    "marketCap": 45700000,
+    "symbol": "CVM"
+  },
+  {
+    "marketCap": 45800000,
+    "symbol": "CPHC"
+  },
+  {
+    "marketCap": 45900000,
+    "symbol": "FNTC"
+  },
+  {
+    "marketCap": 46000000,
+    "symbol": "BAMM"
+  },
+  {
+    "marketCap": 46100000,
+    "symbol": "PFBX"
+  },
+  {
+    "marketCap": 46200000,
+    "symbol": "CCUR"
+  },
+  {
+    "marketCap": 46400000,
+    "symbol": "CVSL"
+  },
+  {
+    "marketCap": 46400000,
+    "symbol": "GPAC"
+  },
+  {
+    "marketCap": 46400000,
+    "symbol": "IBIO"
+  },
+  {
+    "marketCap": 46400000,
+    "symbol": "CYBE"
+  },
+  {
+    "marketCap": 46400000,
+    "symbol": "NTIP"
+  },
+  {
+    "marketCap": 46700000,
+    "symbol": "SORL"
+  },
+  {
+    "marketCap": 46800000,
+    "symbol": "FMD"
+  },
+  {
+    "marketCap": 46800000,
+    "symbol": "FTEK"
+  },
+  {
+    "marketCap": 47000000,
+    "symbol": "YOD"
+  },
+  {
+    "marketCap": 47200000,
+    "symbol": "GPACU"
+  },
+  {
+    "marketCap": 47200000,
+    "symbol": "MBLX"
+  },
+  {
+    "marketCap": 47500000,
+    "symbol": "SITO"
+  },
+  {
+    "marketCap": 47500000,
+    "symbol": "LF"
+  },
+  {
+    "marketCap": 47600000,
+    "symbol": "PNTR"
+  },
+  {
+    "marketCap": 47700000,
+    "symbol": "GGAC"
+  },
+  {
+    "marketCap": 47700000,
+    "symbol": "KGJI"
+  },
+  {
+    "marketCap": 47800000,
+    "symbol": "HMNF"
+  },
+  {
+    "marketCap": 47900000,
+    "symbol": "TEAR"
+  },
+  {
+    "marketCap": 48100000,
+    "symbol": "PIH"
+  },
+  {
+    "marketCap": 48300000,
+    "symbol": "UNAM"
+  },
+  {
+    "marketCap": 48500000,
+    "symbol": "GGACU"
+  },
+  {
+    "marketCap": 48600000,
+    "symbol": "YECO"
+  },
+  {
+    "marketCap": 48600000,
+    "symbol": "TPLM"
+  },
+  {
+    "marketCap": 48700000,
+    "symbol": "BXC"
+  },
+  {
+    "marketCap": 48900000,
+    "symbol": "CZWI"
+  },
+  {
+    "marketCap": 49300000,
+    "symbol": "GSS"
+  },
+  {
+    "marketCap": 49500000,
+    "symbol": "EMAN"
+  },
+  {
+    "marketCap": 49600000,
+    "symbol": "CEMI"
+  },
+  {
+    "marketCap": 49800000,
+    "symbol": "VOC"
+  },
+  {
+    "marketCap": 49900000,
+    "symbol": "APRI"
+  },
+  {
+    "marketCap": 50000000,
+    "symbol": "DIT"
+  },
+  {
+    "marketCap": 50000000,
+    "symbol": "PBHC"
+  },
+  {
+    "marketCap": 50100000,
+    "symbol": "CAS"
+  },
+  {
+    "marketCap": 50300000,
+    "symbol": "BVX"
+  },
+  {
+    "marketCap": 50300000,
+    "symbol": "DSKX"
+  },
+  {
+    "marketCap": 50900000,
+    "symbol": "SFBC"
+  },
+  {
+    "marketCap": 51000000,
+    "symbol": "LIQT"
+  },
+  {
+    "marketCap": 51200000,
+    "symbol": "SYNC"
+  },
+  {
+    "marketCap": 51300000,
+    "symbol": "ABIO"
+  },
+  {
+    "marketCap": 51400000,
+    "symbol": "SLTD"
+  },
+  {
+    "marketCap": 51400000,
+    "symbol": "TC"
+  },
+  {
+    "marketCap": 51600000,
+    "symbol": "BBLU"
+  },
+  {
+    "marketCap": 51800000,
+    "symbol": "GPIA"
+  },
+  {
+    "marketCap": 51800000,
+    "symbol": "DVCR"
+  },
+  {
+    "marketCap": 51900000,
+    "symbol": "IMN"
+  },
+  {
+    "marketCap": 51900000,
+    "symbol": "RWC"
+  },
+  {
+    "marketCap": 52000000,
+    "symbol": "IDSY"
+  },
+  {
+    "marketCap": 52000000,
+    "symbol": "JYNT"
+  },
+  {
+    "marketCap": 52100000,
+    "symbol": "ECAC"
+  },
+  {
+    "marketCap": 52300000,
+    "symbol": "SNTA"
+  },
+  {
+    "marketCap": 52400000,
+    "symbol": "HPJ"
+  },
+  {
+    "marketCap": 52400000,
+    "symbol": "IPCI"
+  },
+  {
+    "marketCap": 52500000,
+    "symbol": "MNDO"
+  },
+  {
+    "marketCap": 52700000,
+    "symbol": "TAYD"
+  },
+  {
+    "marketCap": 52800000,
+    "symbol": "SPAN"
+  },
+  {
+    "marketCap": 53000000,
+    "symbol": "DAVE"
+  },
+  {
+    "marketCap": 53300000,
+    "symbol": "ECACU"
+  },
+  {
+    "marketCap": 53400000,
+    "symbol": "ULTR"
+  },
+  {
+    "marketCap": 53400000,
+    "symbol": "BCLI"
+  },
+  {
+    "marketCap": 53600000,
+    "symbol": "MLSS"
+  },
+  {
+    "marketCap": 53800000,
+    "symbol": "STEM"
+  },
+  {
+    "marketCap": 53800000,
+    "symbol": "CYTX"
+  },
+  {
+    "marketCap": 54000000,
+    "symbol": "SRT"
+  },
+  {
+    "marketCap": 54100000,
+    "symbol": "LINC"
+  },
+  {
+    "marketCap": 54100000,
+    "symbol": "DMTX"
+  },
+  {
+    "marketCap": 54200000,
+    "symbol": "TISA"
+  },
+  {
+    "marketCap": 54200000,
+    "symbol": "BUR"
+  },
+  {
+    "marketCap": 54300000,
+    "symbol": "AVNW"
+  },
+  {
+    "marketCap": 54400000,
+    "symbol": "PARN"
+  },
+  {
+    "marketCap": 54400000,
+    "symbol": "NAK"
+  },
+  {
+    "marketCap": 54500000,
+    "symbol": "GLDC"
+  },
+  {
+    "marketCap": 54600000,
+    "symbol": "ERB"
+  },
+  {
+    "marketCap": 54600000,
+    "symbol": "REXX"
+  },
+  {
+    "marketCap": 55000000,
+    "symbol": "SSE"
+  },
+  {
+    "marketCap": 55300000,
+    "symbol": "XPLR"
+  },
+  {
+    "marketCap": 55400000,
+    "symbol": "AEMD"
+  },
+  {
+    "marketCap": 55500000,
+    "symbol": "FBSS"
+  },
+  {
+    "marketCap": 55600000,
+    "symbol": "DELT"
+  },
+  {
+    "marketCap": 56100000,
+    "symbol": "SBFG"
+  },
+  {
+    "marketCap": 56200000,
+    "symbol": "ASYS"
+  },
+  {
+    "marketCap": 56500000,
+    "symbol": "GTIM"
+  },
+  {
+    "marketCap": 56500000,
+    "symbol": "PERF"
+  },
+  {
+    "marketCap": 56600000,
+    "symbol": "AZUR"
+  },
+  {
+    "marketCap": 56600000,
+    "symbol": "CNLMU"
+  },
+  {
+    "marketCap": 56900000,
+    "symbol": "MGYR"
+  },
+  {
+    "marketCap": 56900000,
+    "symbol": "TAT"
+  },
+  {
+    "marketCap": 57000000,
+    "symbol": "UBOH"
+  },
+  {
+    "marketCap": 57100000,
+    "symbol": "INTX"
+  },
+  {
+    "marketCap": 57200000,
+    "symbol": "BYBK"
+  },
+  {
+    "marketCap": 57300000,
+    "symbol": "MEIP"
+  },
+  {
+    "marketCap": 57300000,
+    "symbol": "AMTX"
+  },
+  {
+    "marketCap": 57400000,
+    "symbol": "SPKE"
+  },
+  {
+    "marketCap": 57500000,
+    "symbol": "SBCP"
+  },
+  {
+    "marketCap": 57500000,
+    "symbol": "TST"
+  },
+  {
+    "marketCap": 57600000,
+    "symbol": "LRAD"
+  },
+  {
+    "marketCap": 57700000,
+    "symbol": "ISR"
+  },
+  {
+    "marketCap": 58000000,
+    "symbol": "ACU"
+  },
+  {
+    "marketCap": 58100000,
+    "symbol": "HCAC"
+  },
+  {
+    "marketCap": 58200000,
+    "symbol": "CWBC"
+  },
+  {
+    "marketCap": 58300000,
+    "symbol": "ESP"
+  },
+  {
+    "marketCap": 58300000,
+    "symbol": "SVBI"
+  },
+  {
+    "marketCap": 58500000,
+    "symbol": "PFIE"
+  },
+  {
+    "marketCap": 58600000,
+    "symbol": "RCMT"
+  },
+  {
+    "marketCap": 58800000,
+    "symbol": "AIRT"
+  },
+  {
+    "marketCap": 59000000,
+    "symbol": "SBFGP"
+  },
+  {
+    "marketCap": 59100000,
+    "symbol": "AIRI"
+  },
+  {
+    "marketCap": 59100000,
+    "symbol": "RTK"
+  },
+  {
+    "marketCap": 59200000,
+    "symbol": "GMAN"
+  },
+  {
+    "marketCap": 59200000,
+    "symbol": "HNSN"
+  },
+  {
+    "marketCap": 59400000,
+    "symbol": "DRD"
+  },
+  {
+    "marketCap": 59400000,
+    "symbol": "TGEN"
+  },
+  {
+    "marketCap": 59500000,
+    "symbol": "UCP"
+  },
+  {
+    "marketCap": 59600000,
+    "symbol": "SPRT"
+  },
+  {
+    "marketCap": 60000000,
+    "symbol": "PMD"
+  },
+  {
+    "marketCap": 60000000,
+    "symbol": "PNBK"
+  },
+  {
+    "marketCap": 60000000,
+    "symbol": "AMSC"
+  },
+  {
+    "marketCap": 60000000,
+    "symbol": "CNAT"
+  },
+  {
+    "marketCap": 60000000,
+    "symbol": "CTRV"
+  },
+  {
+    "marketCap": 60000000,
+    "symbol": "PYS"
+  },
+  {
+    "marketCap": 60200000,
+    "symbol": "RMCF"
+  },
+  {
+    "marketCap": 60300000,
+    "symbol": "CAPR"
+  },
+  {
+    "marketCap": 60300000,
+    "symbol": "MCV"
+  },
+  {
+    "marketCap": 60400000,
+    "symbol": "DCIX"
+  },
+  {
+    "marketCap": 60400000,
+    "symbol": "EACQ"
+  },
+  {
+    "marketCap": 60600000,
+    "symbol": "RAVE"
+  },
+  {
+    "marketCap": 60700000,
+    "symbol": "LODE"
+  },
+  {
+    "marketCap": 60800000,
+    "symbol": "SNSS"
+  },
+  {
+    "marketCap": 61000000,
+    "symbol": "SBBX"
+  },
+  {
+    "marketCap": 61100000,
+    "symbol": "OESX"
+  },
+  {
+    "marketCap": 61300000,
+    "symbol": "SANW"
+  },
+  {
+    "marketCap": 61400000,
+    "symbol": "CPXX"
+  },
+  {
+    "marketCap": 61700000,
+    "symbol": "ASRV"
+  },
+  {
+    "marketCap": 61800000,
+    "symbol": "WYY"
+  },
+  {
+    "marketCap": 61900000,
+    "symbol": "PBSK"
+  },
+  {
+    "marketCap": 61900000,
+    "symbol": "NOA"
+  },
+  {
+    "marketCap": 62000000,
+    "symbol": "FXEN"
+  },
+  {
+    "marketCap": 62000000,
+    "symbol": "CGA"
+  },
+  {
+    "marketCap": 62000000,
+    "symbol": "CLBS"
+  },
+  {
+    "marketCap": 62100000,
+    "symbol": "OCRX"
+  },
+  {
+    "marketCap": 62100000,
+    "symbol": "NNVC"
+  },
+  {
+    "marketCap": 62300000,
+    "symbol": "CLIR"
+  },
+  {
+    "marketCap": 62400000,
+    "symbol": "INTG"
+  },
+  {
+    "marketCap": 62500000,
+    "symbol": "IPAS"
+  },
+  {
+    "marketCap": 62600000,
+    "symbol": "CYRN"
+  },
+  {
+    "marketCap": 62900000,
+    "symbol": "PSBH"
+  },
+  {
+    "marketCap": 62900000,
+    "symbol": "JOB"
+  },
+  {
+    "marketCap": 63000000,
+    "symbol": "ICAD"
+  },
+  {
+    "marketCap": 63000000,
+    "symbol": "ANCB"
+  },
+  {
+    "marketCap": 63100000,
+    "symbol": "FUNC"
+  },
+  {
+    "marketCap": 63400000,
+    "symbol": "ARGS"
+  },
+  {
+    "marketCap": 63400000,
+    "symbol": "MVO"
+  },
+  {
+    "marketCap": 63500000,
+    "symbol": "JST"
+  },
+  {
+    "marketCap": 63500000,
+    "symbol": "CRBP"
+  },
+  {
+    "marketCap": 63600000,
+    "symbol": "ROYT"
+  },
+  {
+    "marketCap": 63700000,
+    "symbol": "CVV"
+  },
+  {
+    "marketCap": 63800000,
+    "symbol": "TATT"
+  },
+  {
+    "marketCap": 63900000,
+    "symbol": "INOD"
+  },
+  {
+    "marketCap": 63900000,
+    "symbol": "UCBA"
+  },
+  {
+    "marketCap": 63900000,
+    "symbol": "ANY"
+  },
+  {
+    "marketCap": 64000000,
+    "symbol": "FRBA"
+  },
+  {
+    "marketCap": 64000000,
+    "symbol": "GFED"
+  },
+  {
+    "marketCap": 64000000,
+    "symbol": "GPIC"
+  },
+  {
+    "marketCap": 64000000,
+    "symbol": "RBPAA"
+  },
+  {
+    "marketCap": 64099999.99999999,
+    "symbol": "TRTL"
+  },
+  {
+    "marketCap": 64200000,
+    "symbol": "SSBI"
+  },
+  {
+    "marketCap": 64300000,
+    "symbol": "LOJN"
+  },
+  {
+    "marketCap": 64300000,
+    "symbol": "MBCN"
+  },
+  {
+    "marketCap": 64800000,
+    "symbol": "TRNS"
+  },
+  {
+    "marketCap": 65000000,
+    "symbol": "INFU"
+  },
+  {
+    "marketCap": 65000000,
+    "symbol": "REN"
+  },
+  {
+    "marketCap": 65099999.99999999,
+    "symbol": "AVEO"
+  },
+  {
+    "marketCap": 65300000,
+    "symbol": "ORPN"
+  },
+  {
+    "marketCap": 65400000.00000001,
+    "symbol": "IROQ"
+  },
+  {
+    "marketCap": 65400000.00000001,
+    "symbol": "KTEC"
+  },
+  {
+    "marketCap": 65500000,
+    "symbol": "FCLF"
+  },
+  {
+    "marketCap": 65500000,
+    "symbol": "BTN"
+  },
+  {
+    "marketCap": 65700000,
+    "symbol": "SYNL"
+  },
+  {
+    "marketCap": 65800000,
+    "symbol": "ALQA"
+  },
+  {
+    "marketCap": 66099999.99999999,
+    "symbol": "HTM"
+  },
+  {
+    "marketCap": 66400000.00000001,
+    "symbol": "DWCH"
+  },
+  {
+    "marketCap": 66900000.00000001,
+    "symbol": "NRT"
+  },
+  {
+    "marketCap": 67000000,
+    "symbol": "APDN"
+  },
+  {
+    "marketCap": 67300000,
+    "symbol": "TINY"
+  },
+  {
+    "marketCap": 67700000,
+    "symbol": "URG"
+  },
+  {
+    "marketCap": 68100000,
+    "symbol": "AREX"
+  },
+  {
+    "marketCap": 68200000,
+    "symbol": "MSTX"
+  },
+  {
+    "marketCap": 68300000,
+    "symbol": "PULM"
+  },
+  {
+    "marketCap": 68400000,
+    "symbol": "RELL"
+  },
+  {
+    "marketCap": 68400000,
+    "symbol": "SBOT"
+  },
+  {
+    "marketCap": 68500000,
+    "symbol": "TLF"
+  },
+  {
+    "marketCap": 68600000,
+    "symbol": "IMMY"
+  },
+  {
+    "marketCap": 68600000,
+    "symbol": "BKJ"
+  },
+  {
+    "marketCap": 68600000,
+    "symbol": "SAUC"
+  },
+  {
+    "marketCap": 68600000,
+    "symbol": "STKS"
+  },
+  {
+    "marketCap": 68600000,
+    "symbol": "SIF"
+  },
+  {
+    "marketCap": 68800000,
+    "symbol": "ZN"
+  },
+  {
+    "marketCap": 69000000,
+    "symbol": "FCAP"
+  },
+  {
+    "marketCap": 69100000,
+    "symbol": "ARIS"
+  },
+  {
+    "marketCap": 69300000,
+    "symbol": "KINS"
+  },
+  {
+    "marketCap": 69300000,
+    "symbol": "ARDM"
+  },
+  {
+    "marketCap": 69400000,
+    "symbol": "GPL"
+  },
+  {
+    "marketCap": 69400000,
+    "symbol": "REED"
+  },
+  {
+    "marketCap": 69500000,
+    "symbol": "MAGS"
+  },
+  {
+    "marketCap": 70000000,
+    "symbol": "TCCA"
+  },
+  {
+    "marketCap": 70100000,
+    "symbol": "QUIK"
+  },
+  {
+    "marketCap": 70500000,
+    "symbol": "PWX"
+  },
+  {
+    "marketCap": 70600000,
+    "symbol": "ITI"
+  },
+  {
+    "marketCap": 70600000,
+    "symbol": "BSQR"
+  },
+  {
+    "marketCap": 70700000,
+    "symbol": "TACT"
+  },
+  {
+    "marketCap": 70800000,
+    "symbol": "AWRE"
+  },
+  {
+    "marketCap": 71000000,
+    "symbol": "AUMA"
+  },
+  {
+    "marketCap": 71000000,
+    "symbol": "SCX"
+  },
+  {
+    "marketCap": 71200000,
+    "symbol": "JCS"
+  },
+  {
+    "marketCap": 71300000,
+    "symbol": "CNR"
+  },
+  {
+    "marketCap": 71600000,
+    "symbol": "WLDN"
+  },
+  {
+    "marketCap": 71700000,
+    "symbol": "MNGA"
+  },
+  {
+    "marketCap": 71900000,
+    "symbol": "MOBI"
+  },
+  {
+    "marketCap": 71900000,
+    "symbol": "MSB"
+  },
+  {
+    "marketCap": 72100000,
+    "symbol": "MFNC"
+  },
+  {
+    "marketCap": 72100000,
+    "symbol": "AQMS"
+  },
+  {
+    "marketCap": 72500000,
+    "symbol": "KIN"
+  },
+  {
+    "marketCap": 72700000,
+    "symbol": "ASBI"
+  },
+  {
+    "marketCap": 73000000,
+    "symbol": "PRSS"
+  },
+  {
+    "marketCap": 73000000,
+    "symbol": "AMIC"
+  },
+  {
+    "marketCap": 73100000,
+    "symbol": "INUV"
+  },
+  {
+    "marketCap": 73600000,
+    "symbol": "PRCP"
+  },
+  {
+    "marketCap": 73700000,
+    "symbol": "HFBC"
+  },
+  {
+    "marketCap": 73900000,
+    "symbol": "CDZI"
+  },
+  {
+    "marketCap": 74100000,
+    "symbol": "FALC"
+  },
+  {
+    "marketCap": 74100000,
+    "symbol": "JMI"
+  },
+  {
+    "marketCap": 74100000,
+    "symbol": "AMRB"
+  },
+  {
+    "marketCap": 74400000,
+    "symbol": "ARL"
+  },
+  {
+    "marketCap": 74600000,
+    "symbol": "FCTY"
+  },
+  {
+    "marketCap": 74600000,
+    "symbol": "TRCB"
+  },
+  {
+    "marketCap": 74600000,
+    "symbol": "ADMP"
+  },
+  {
+    "marketCap": 74600000,
+    "symbol": "TCI"
+  },
+  {
+    "marketCap": 74700000,
+    "symbol": "IPWR"
+  },
+  {
+    "marketCap": 74800000,
+    "symbol": "VNRX"
+  },
+  {
+    "marketCap": 74900000,
+    "symbol": "FCVA"
+  },
+  {
+    "marketCap": 75000000,
+    "symbol": "SYMX"
+  },
+  {
+    "marketCap": 75100000,
+    "symbol": "CNXR"
+  },
+  {
+    "marketCap": 75600000,
+    "symbol": "JASN"
+  },
+  {
+    "marketCap": 75800000,
+    "symbol": "CRMD"
+  },
+  {
+    "marketCap": 75800000,
+    "symbol": "GLPW"
+  },
+  {
+    "marketCap": 75800000,
+    "symbol": "IO"
+  },
+  {
+    "marketCap": 75900000,
+    "symbol": "PXLW"
+  },
+  {
+    "marketCap": 75900000,
+    "symbol": "CNFR"
+  },
+  {
+    "marketCap": 76000000,
+    "symbol": "AFCO"
+  },
+  {
+    "marketCap": 76400000,
+    "symbol": "SPCB"
+  },
+  {
+    "marketCap": 76400000,
+    "symbol": "WMLP"
+  },
+  {
+    "marketCap": 76800000,
+    "symbol": "PATI"
+  },
+  {
+    "marketCap": 77200000,
+    "symbol": "AXN"
+  },
+  {
+    "marketCap": 77200000,
+    "symbol": "DNBF"
+  },
+  {
+    "marketCap": 77400000,
+    "symbol": "FSFG"
+  },
+  {
+    "marketCap": 77400000,
+    "symbol": "LPSB"
+  },
+  {
+    "marketCap": 77600000,
+    "symbol": "PBMD"
+  },
+  {
+    "marketCap": 77700000,
+    "symbol": "RNN"
+  },
+  {
+    "marketCap": 78000000,
+    "symbol": "BOTA"
+  },
+  {
+    "marketCap": 78000000,
+    "symbol": "TGB"
+  },
+  {
+    "marketCap": 78100000,
+    "symbol": "ATNY"
+  },
+  {
+    "marketCap": 78100000,
+    "symbol": "AUPH"
+  },
+  {
+    "marketCap": 78400000,
+    "symbol": "LSBK"
+  },
+  {
+    "marketCap": 78400000,
+    "symbol": "WSTL"
+  },
+  {
+    "marketCap": 78500000,
+    "symbol": "PKBK"
+  },
+  {
+    "marketCap": 78600000,
+    "symbol": "RWLK"
+  },
+  {
+    "marketCap": 78700000,
+    "symbol": "TTHI"
+  },
+  {
+    "marketCap": 78700000,
+    "symbol": "ARKR"
+  },
+  {
+    "marketCap": 78800000,
+    "symbol": "KEG"
+  },
+  {
+    "marketCap": 78900000,
+    "symbol": "CBAN"
+  },
+  {
+    "marketCap": 78900000,
+    "symbol": "NEFF"
+  },
+  {
+    "marketCap": 79500000,
+    "symbol": "OVLY"
+  },
+  {
+    "marketCap": 79500000,
+    "symbol": "CDNA"
+  },
+  {
+    "marketCap": 79500000,
+    "symbol": "CMLS"
+  },
+  {
+    "marketCap": 79600000,
+    "symbol": "BLRX"
+  },
+  {
+    "marketCap": 79800000,
+    "symbol": "FSBW"
+  },
+  {
+    "marketCap": 79900000,
+    "symbol": "CVU"
+  },
+  {
+    "marketCap": 80000000,
+    "symbol": "PRTS"
+  },
+  {
+    "marketCap": 80000000,
+    "symbol": "HGT"
+  },
+  {
+    "marketCap": 80100000,
+    "symbol": "PGLC"
+  },
+  {
+    "marketCap": 80100000,
+    "symbol": "AXTI"
+  },
+  {
+    "marketCap": 80200000,
+    "symbol": "RCKY"
+  },
+  {
+    "marketCap": 80300000,
+    "symbol": "GRO"
+  },
+  {
+    "marketCap": 80400000,
+    "symbol": "HSON"
+  },
+  {
+    "marketCap": 80400000,
+    "symbol": "KURA"
+  },
+  {
+    "marketCap": 80400000,
+    "symbol": "BKSC"
+  },
+  {
+    "marketCap": 80500000,
+    "symbol": "FSYS"
+  },
+  {
+    "marketCap": 80600000,
+    "symbol": "BIND"
+  },
+  {
+    "marketCap": 80600000,
+    "symbol": "SDT"
+  },
+  {
+    "marketCap": 80900000,
+    "symbol": "ESI"
+  },
+  {
+    "marketCap": 81000000,
+    "symbol": "ROIAK"
+  },
+  {
+    "marketCap": 81200000,
+    "symbol": "WLB"
+  },
+  {
+    "marketCap": 81500000,
+    "symbol": "REPH"
+  },
+  {
+    "marketCap": 81800000,
+    "symbol": "ROIA"
+  },
+  {
+    "marketCap": 81900000,
+    "symbol": "PIRS"
+  },
+  {
+    "marketCap": 82200000,
+    "symbol": "CRT"
+  },
+  {
+    "marketCap": 82200000,
+    "symbol": "CAMT"
+  },
+  {
+    "marketCap": 82500000,
+    "symbol": "CBNK"
+  },
+  {
+    "marketCap": 82600000,
+    "symbol": "DVD"
+  },
+  {
+    "marketCap": 82700000,
+    "symbol": "ATNM"
+  },
+  {
+    "marketCap": 82700000,
+    "symbol": "PCTI"
+  },
+  {
+    "marketCap": 82800000,
+    "symbol": "FSBK"
+  },
+  {
+    "marketCap": 82800000,
+    "symbol": "GURE"
+  },
+  {
+    "marketCap": 83000000,
+    "symbol": "LAND"
+  },
+  {
+    "marketCap": 83200000,
+    "symbol": "KTCC"
+  },
+  {
+    "marketCap": 83400000,
+    "symbol": "MOCO"
+  },
+  {
+    "marketCap": 83900000,
+    "symbol": "IKGH"
+  },
+  {
+    "marketCap": 83900000,
+    "symbol": "BBGI"
+  },
+  {
+    "marketCap": 84000000,
+    "symbol": "KFFB"
+  },
+  {
+    "marketCap": 84100000,
+    "symbol": "CRWS"
+  },
+  {
+    "marketCap": 84200000,
+    "symbol": "UBFO"
+  },
+  {
+    "marketCap": 84300000,
+    "symbol": "HWBK"
+  },
+  {
+    "marketCap": 84300000,
+    "symbol": "SB"
+  },
+  {
+    "marketCap": 84400000,
+    "symbol": "UTI"
+  },
+  {
+    "marketCap": 84700000,
+    "symbol": "MARK"
+  },
+  {
+    "marketCap": 84700000,
+    "symbol": "CIVB"
+  },
+  {
+    "marketCap": 85000000,
+    "symbol": "WSTG"
+  },
+  {
+    "marketCap": 85400000,
+    "symbol": "SAL"
+  },
+  {
+    "marketCap": 85400000,
+    "symbol": "UG"
+  },
+  {
+    "marketCap": 85600000,
+    "symbol": "XXII"
+  },
+  {
+    "marketCap": 86300000,
+    "symbol": "CLBH"
+  },
+  {
+    "marketCap": 86400000,
+    "symbol": "KBSF"
+  },
+  {
+    "marketCap": 86500000,
+    "symbol": "VMEM"
+  },
+  {
+    "marketCap": 86700000,
+    "symbol": "EGAS"
+  },
+  {
+    "marketCap": 86700000,
+    "symbol": "HEAR"
+  },
+  {
+    "marketCap": 86700000,
+    "symbol": "SAR"
+  },
+  {
+    "marketCap": 86800000,
+    "symbol": "GSB"
+  },
+  {
+    "marketCap": 87000000,
+    "symbol": "SIEN"
+  },
+  {
+    "marketCap": 87200000,
+    "symbol": "SOHO"
+  },
+  {
+    "marketCap": 87300000,
+    "symbol": "CRK"
+  },
+  {
+    "marketCap": 87800000,
+    "symbol": "PTIE"
+  },
+  {
+    "marketCap": 88000000,
+    "symbol": "SNFCA"
+  },
+  {
+    "marketCap": 88100000,
+    "symbol": "BRID"
+  },
+  {
+    "marketCap": 88300000,
+    "symbol": "LARK"
+  },
+  {
+    "marketCap": 88300000,
+    "symbol": "CADT"
+  },
+  {
+    "marketCap": 88600000,
+    "symbol": "TSBK"
+  },
+  {
+    "marketCap": 88600000,
+    "symbol": "CERU"
+  },
+  {
+    "marketCap": 88900000,
+    "symbol": "FCCO"
+  },
+  {
+    "marketCap": 88900000,
+    "symbol": "MIFI"
+  },
+  {
+    "marketCap": 89000000,
+    "symbol": "RIVR"
+  },
+  {
+    "marketCap": 89100000,
+    "symbol": "MMAC"
+  },
+  {
+    "marketCap": 89100000,
+    "symbol": "ATHX"
+  },
+  {
+    "marketCap": 89200000,
+    "symbol": "OPOF"
+  },
+  {
+    "marketCap": 89300000,
+    "symbol": "LENS"
+  },
+  {
+    "marketCap": 89300000,
+    "symbol": "PRGX"
+  },
+  {
+    "marketCap": 89300000,
+    "symbol": "QRHC"
+  },
+  {
+    "marketCap": 89600000,
+    "symbol": "XBKS"
+  },
+  {
+    "marketCap": 89700000,
+    "symbol": "UNIS"
+  },
+  {
+    "marketCap": 89800000,
+    "symbol": "HBP"
+  },
+  {
+    "marketCap": 89800000,
+    "symbol": "SLCT"
+  },
+  {
+    "marketCap": 89900000,
+    "symbol": "ACFC"
+  },
+  {
+    "marketCap": 90000000,
+    "symbol": "GLMD"
+  },
+  {
+    "marketCap": 90200000,
+    "symbol": "TENX"
+  },
+  {
+    "marketCap": 90200000,
+    "symbol": "STV"
+  },
+  {
+    "marketCap": 90300000,
+    "symbol": "CBFV"
+  },
+  {
+    "marketCap": 90400000,
+    "symbol": "UUUU"
+  },
+  {
+    "marketCap": 90500000,
+    "symbol": "NTZ"
+  },
+  {
+    "marketCap": 90800000,
+    "symbol": "AIQ"
+  },
+  {
+    "marketCap": 90800000,
+    "symbol": "CVGI"
+  },
+  {
+    "marketCap": 90900000,
+    "symbol": "ARP"
+  },
+  {
+    "marketCap": 91200000,
+    "symbol": "SSRG"
+  },
+  {
+    "marketCap": 91600000,
+    "symbol": "GSIT"
+  },
+  {
+    "marketCap": 91600000,
+    "symbol": "LEE"
+  },
+  {
+    "marketCap": 91800000,
+    "symbol": "JCAP"
+  },
+  {
+    "marketCap": 92000000,
+    "symbol": "DXYN"
+  },
+  {
+    "marketCap": 92000000,
+    "symbol": "PLX"
+  },
+  {
+    "marketCap": 92200000,
+    "symbol": "EGY"
+  },
+  {
+    "marketCap": 92300000,
+    "symbol": "UNTY"
+  },
+  {
+    "marketCap": 92300000,
+    "symbol": "CPIX"
+  },
+  {
+    "marketCap": 92300000,
+    "symbol": "OAKS"
+  },
+  {
+    "marketCap": 92600000,
+    "symbol": "CBYL"
+  },
+  {
+    "marketCap": 93100000,
+    "symbol": "VJET"
+  },
+  {
+    "marketCap": 93200000,
+    "symbol": "ALSK"
+  },
+  {
+    "marketCap": 93300000,
+    "symbol": "HBMD"
+  },
+  {
+    "marketCap": 93400000,
+    "symbol": "HYGS"
+  },
+  {
+    "marketCap": 93600000,
+    "symbol": "CVO"
+  },
+  {
+    "marketCap": 93700000,
+    "symbol": "IRIX"
+  },
+  {
+    "marketCap": 93700000,
+    "symbol": "BRT"
+  },
+  {
+    "marketCap": 93700000,
+    "symbol": "CELP"
+  },
+  {
+    "marketCap": 93800000,
+    "symbol": "DWSN"
+  },
+  {
+    "marketCap": 93900000,
+    "symbol": "BOOM"
+  },
+  {
+    "marketCap": 94000000,
+    "symbol": "NADL"
+  },
+  {
+    "marketCap": 94100000,
+    "symbol": "FEIM"
+  },
+  {
+    "marketCap": 94100000,
+    "symbol": "SCYX"
+  },
+  {
+    "marketCap": 94300000,
+    "symbol": "CMT"
+  },
+  {
+    "marketCap": 94600000,
+    "symbol": "KFS"
+  },
+  {
+    "marketCap": 94800000,
+    "symbol": "FBMS"
+  },
+  {
+    "marketCap": 94800000,
+    "symbol": "HWCC"
+  },
+  {
+    "marketCap": 94800000,
+    "symbol": "PVCT"
+  },
+  {
+    "marketCap": 94800000,
+    "symbol": "RVP"
+  },
+  {
+    "marketCap": 94900000,
+    "symbol": "AXSM"
+  },
+  {
+    "marketCap": 95000000,
+    "symbol": "ELLO"
+  },
+  {
+    "marketCap": 95000000,
+    "symbol": "FCCY"
+  },
+  {
+    "marketCap": 95100000,
+    "symbol": "APPS"
+  },
+  {
+    "marketCap": 95500000,
+    "symbol": "ARWAU"
+  },
+  {
+    "marketCap": 95500000,
+    "symbol": "DRYS"
+  },
+  {
+    "marketCap": 95600000,
+    "symbol": "GSV"
+  },
+  {
+    "marketCap": 95700000,
+    "symbol": "JRJC"
+  },
+  {
+    "marketCap": 96100000,
+    "symbol": "HDSN"
+  },
+  {
+    "marketCap": 96100000,
+    "symbol": "BOCH"
+  },
+  {
+    "marketCap": 96200000,
+    "symbol": "MNTX"
+  },
+  {
+    "marketCap": 96200000,
+    "symbol": "TRIL"
+  },
+  {
+    "marketCap": 96200000,
+    "symbol": "CDORO"
+  },
+  {
+    "marketCap": 96400000,
+    "symbol": "PFMT"
+  },
+  {
+    "marketCap": 96400000,
+    "symbol": "ADMA"
+  },
+  {
+    "marketCap": 96700000,
+    "symbol": "COVS"
+  },
+  {
+    "marketCap": 97100000,
+    "symbol": "SAMG"
+  },
+  {
+    "marketCap": 97400000,
+    "symbol": "ORMP"
+  },
+  {
+    "marketCap": 97700000,
+    "symbol": "TCFC"
+  },
+  {
+    "marketCap": 98000000,
+    "symbol": "AAME"
+  },
+  {
+    "marketCap": 98100000,
+    "symbol": "RVSB"
+  },
+  {
+    "marketCap": 98200000,
+    "symbol": "CUR"
+  },
+  {
+    "marketCap": 98600000,
+    "symbol": "CFRX"
+  },
+  {
+    "marketCap": 99200000,
+    "symbol": "HGSH"
+  },
+  {
+    "marketCap": 99400000,
+    "symbol": "MNOV"
+  },
+  {
+    "marketCap": 99400000,
+    "symbol": "LOV"
+  },
+  {
+    "marketCap": 99900000,
+    "symbol": "PANL"
+  },
+  {
+    "marketCap": 100200000,
+    "symbol": "FATE"
+  },
+  {
+    "marketCap": 100200000,
+    "symbol": "QPAC"
+  },
+  {
+    "marketCap": 100600000,
+    "symbol": "RGCO"
+  },
+  {
+    "marketCap": 100600000,
+    "symbol": "ALOT"
+  },
+  {
+    "marketCap": 100700000,
+    "symbol": "IMI"
+  },
+  {
+    "marketCap": 100700000,
+    "symbol": "RSYS"
+  },
+  {
+    "marketCap": 100700000,
+    "symbol": "CHEV"
+  },
+  {
+    "marketCap": 100800000,
+    "symbol": "MAMS"
+  },
+  {
+    "marketCap": 100800000,
+    "symbol": "OVBC"
+  },
+  {
+    "marketCap": 100900000,
+    "symbol": "GST"
+  },
+  {
+    "marketCap": 101000000,
+    "symbol": "BGSF"
+  },
+  {
+    "marketCap": 101000000,
+    "symbol": "DEST"
+  },
+  {
+    "marketCap": 101100000,
+    "symbol": "AKAO"
+  },
+  {
+    "marketCap": 101100000,
+    "symbol": "CRNT"
+  },
+  {
+    "marketCap": 101500000,
+    "symbol": "SKIS"
+  },
+  {
+    "marketCap": 101500000,
+    "symbol": "TANH"
+  },
+  {
+    "marketCap": 101700000,
+    "symbol": "UEC"
+  },
+  {
+    "marketCap": 102100000,
+    "symbol": "AUBN"
+  },
+  {
+    "marketCap": 102200000,
+    "symbol": "GFN"
+  },
+  {
+    "marketCap": 102600000,
+    "symbol": "NDRO"
+  },
+  {
+    "marketCap": 102800000,
+    "symbol": "RICK"
+  },
+  {
+    "marketCap": 102800000,
+    "symbol": "ULBI"
+  },
+  {
+    "marketCap": 103000000,
+    "symbol": "EVBN"
+  },
+  {
+    "marketCap": 103300000,
+    "symbol": "ASBB"
+  },
+  {
+    "marketCap": 103400000,
+    "symbol": "MLP"
+  },
+  {
+    "marketCap": 103500000,
+    "symbol": "GENC"
+  },
+  {
+    "marketCap": 103500000,
+    "symbol": "REXI"
+  },
+  {
+    "marketCap": 103500000,
+    "symbol": "ACTS"
+  },
+  {
+    "marketCap": 103500000,
+    "symbol": "SQNS"
+  },
+  {
+    "marketCap": 103700000,
+    "symbol": "CIZN"
+  },
+  {
+    "marketCap": 103800000,
+    "symbol": "CLCD"
+  },
+  {
+    "marketCap": 104000000,
+    "symbol": "LAKE"
+  },
+  {
+    "marketCap": 104100000,
+    "symbol": "NAO"
+  },
+  {
+    "marketCap": 104200000,
+    "symbol": "OSHC"
+  },
+  {
+    "marketCap": 104300000,
+    "symbol": "PME"
+  },
+  {
+    "marketCap": 104300000,
+    "symbol": "TTNP"
+  },
+  {
+    "marketCap": 104400000,
+    "symbol": "PIP"
+  },
+  {
+    "marketCap": 104500000,
+    "symbol": "EMG"
+  },
+  {
+    "marketCap": 104500000,
+    "symbol": "IRG"
+  },
+  {
+    "marketCap": 104600000,
+    "symbol": "CPHR"
+  },
+  {
+    "marketCap": 104900000,
+    "symbol": "SDR"
+  },
+  {
+    "marketCap": 105100000,
+    "symbol": "MHGC"
+  },
+  {
+    "marketCap": 105100000,
+    "symbol": "OFED"
+  },
+  {
+    "marketCap": 105100000,
+    "symbol": "CFCB"
+  },
+  {
+    "marketCap": 105300000,
+    "symbol": "YUME"
+  },
+  {
+    "marketCap": 105500000,
+    "symbol": "HGG"
+  },
+  {
+    "marketCap": 105800000,
+    "symbol": "PEBK"
+  },
+  {
+    "marketCap": 105900000,
+    "symbol": "LAYN"
+  },
+  {
+    "marketCap": 106400000,
+    "symbol": "SHLO"
+  },
+  {
+    "marketCap": 106400000,
+    "symbol": "MHNB"
+  },
+  {
+    "marketCap": 106700000,
+    "symbol": "FAC"
+  },
+  {
+    "marketCap": 106800000,
+    "symbol": "MLVF"
+  },
+  {
+    "marketCap": 107100000,
+    "symbol": "PCYO"
+  },
+  {
+    "marketCap": 107100000,
+    "symbol": "SOCB"
+  },
+  {
+    "marketCap": 107400000,
+    "symbol": "ASFI"
+  },
+  {
+    "marketCap": 107400000,
+    "symbol": "ORN"
+  },
+  {
+    "marketCap": 107700000,
+    "symbol": "PAR"
+  },
+  {
+    "marketCap": 107800000,
+    "symbol": "ACW"
+  },
+  {
+    "marketCap": 108300000,
+    "symbol": "PBIP"
+  },
+  {
+    "marketCap": 108500000,
+    "symbol": "DRAD"
+  },
+  {
+    "marketCap": 108600000,
+    "symbol": "PSTI"
+  },
+  {
+    "marketCap": 108800000,
+    "symbol": "CHMI"
+  },
+  {
+    "marketCap": 109000000,
+    "symbol": "FONR"
+  },
+  {
+    "marketCap": 109400000,
+    "symbol": "AMRK"
+  },
+  {
+    "marketCap": 109600000,
+    "symbol": "IVAC"
+  },
+  {
+    "marketCap": 109800000,
+    "symbol": "TWMC"
+  },
+  {
+    "marketCap": 109900000,
+    "symbol": "TRMR"
+  },
+  {
+    "marketCap": 110300000,
+    "symbol": "JAXB"
+  },
+  {
+    "marketCap": 110500000,
+    "symbol": "PCMI"
+  },
+  {
+    "marketCap": 110700000,
+    "symbol": "DSCI"
+  },
+  {
+    "marketCap": 110800000,
+    "symbol": "GRSHU"
+  },
+  {
+    "marketCap": 111300000,
+    "symbol": "HBIO"
+  },
+  {
+    "marketCap": 111400000,
+    "symbol": "FSTR"
+  },
+  {
+    "marketCap": 111400000,
+    "symbol": "PSDV"
+  },
+  {
+    "marketCap": 111500000,
+    "symbol": "BLVD"
+  },
+  {
+    "marketCap": 112000000,
+    "symbol": "AXAS"
+  },
+  {
+    "marketCap": 112600000,
+    "symbol": "UPLD"
+  },
+  {
+    "marketCap": 112900000,
+    "symbol": "AHC"
+  },
+  {
+    "marketCap": 113300000,
+    "symbol": "LSBG"
+  },
+  {
+    "marketCap": 113300000,
+    "symbol": "MNI"
+  },
+  {
+    "marketCap": 113800000,
+    "symbol": "RDCM"
+  },
+  {
+    "marketCap": 114200000,
+    "symbol": "MIL"
+  },
+  {
+    "marketCap": 114500000,
+    "symbol": "YGE"
+  },
+  {
+    "marketCap": 114900000,
+    "symbol": "XELB"
+  },
+  {
+    "marketCap": 115100000,
+    "symbol": "DMD"
+  },
+  {
+    "marketCap": 115300000,
+    "symbol": "AOI"
+  },
+  {
+    "marketCap": 115400000,
+    "symbol": "GNK"
+  },
+  {
+    "marketCap": 115700000,
+    "symbol": "FCFP"
+  },
+  {
+    "marketCap": 115800000,
+    "symbol": "LNTH"
+  },
+  {
+    "marketCap": 115900000,
+    "symbol": "UPIP"
+  },
+  {
+    "marketCap": 116000000,
+    "symbol": "LFVN"
+  },
+  {
+    "marketCap": 116100000,
+    "symbol": "CLRO"
+  },
+  {
+    "marketCap": 116400000,
+    "symbol": "EARN"
+  },
+  {
+    "marketCap": 116600000,
+    "symbol": "MAYS"
+  },
+  {
+    "marketCap": 116700000,
+    "symbol": "AINC"
+  },
+  {
+    "marketCap": 116900000,
+    "symbol": "GIG"
+  },
+  {
+    "marketCap": 117000000,
+    "symbol": "BCBP"
+  },
+  {
+    "marketCap": 117000000,
+    "symbol": "NKA"
+  },
+  {
+    "marketCap": 117000000,
+    "symbol": "UFAB"
+  },
+  {
+    "marketCap": 117300000,
+    "symbol": "DLA"
+  },
+  {
+    "marketCap": 117400000,
+    "symbol": "PVBC"
+  },
+  {
+    "marketCap": 117500000,
+    "symbol": "TZOO"
+  },
+  {
+    "marketCap": 117700000,
+    "symbol": "ZEUS"
+  },
+  {
+    "marketCap": 117900000,
+    "symbol": "MSL"
+  },
+  {
+    "marketCap": 118700000,
+    "symbol": "TWIN"
+  },
+  {
+    "marketCap": 118700000,
+    "symbol": "DPRX"
+  },
+  {
+    "marketCap": 119100000,
+    "symbol": "GORO"
+  },
+  {
+    "marketCap": 119100000,
+    "symbol": "OOMA"
+  },
+  {
+    "marketCap": 119200000,
+    "symbol": "REFR"
+  },
+  {
+    "marketCap": 119300000,
+    "symbol": "ZFC"
+  },
+  {
+    "marketCap": 119400000,
+    "symbol": "WPRT"
+  },
+  {
+    "marketCap": 119400000,
+    "symbol": "AP"
+  },
+  {
+    "marketCap": 119600000,
+    "symbol": "EARS"
+  },
+  {
+    "marketCap": 119700000,
+    "symbol": "AMBR"
+  },
+  {
+    "marketCap": 119700000,
+    "symbol": "CVLY"
+  },
+  {
+    "marketCap": 120100000,
+    "symbol": "ABEO"
+  },
+  {
+    "marketCap": 120400000,
+    "symbol": "OHRP"
+  },
+  {
+    "marketCap": 120500000,
+    "symbol": "ZYNE"
+  },
+  {
+    "marketCap": 120600000,
+    "symbol": "EXXI"
+  },
+  {
+    "marketCap": 120600000,
+    "symbol": "SKUL"
+  },
+  {
+    "marketCap": 120600000,
+    "symbol": "TAOM"
+  },
+  {
+    "marketCap": 121000000,
+    "symbol": "SZMK"
+  },
+  {
+    "marketCap": 121200000,
+    "symbol": "NYMX"
+  },
+  {
+    "marketCap": 121200000,
+    "symbol": "JMP"
+  },
+  {
+    "marketCap": 121300000,
+    "symbol": "FUEL"
+  },
+  {
+    "marketCap": 122700000,
+    "symbol": "ISTR"
+  },
+  {
+    "marketCap": 123100000,
+    "symbol": "CALA"
+  },
+  {
+    "marketCap": 123400000,
+    "symbol": "HTCH"
+  },
+  {
+    "marketCap": 123400000,
+    "symbol": "NM"
+  },
+  {
+    "marketCap": 123500000,
+    "symbol": "CTG"
+  },
+  {
+    "marketCap": 123900000,
+    "symbol": "STRL"
+  },
+  {
+    "marketCap": 124400000,
+    "symbol": "UNB"
+  },
+  {
+    "marketCap": 124600000,
+    "symbol": "BAS"
+  },
+  {
+    "marketCap": 124600000,
+    "symbol": "PNRG"
+  },
+  {
+    "marketCap": 125300000,
+    "symbol": "PFX"
+  },
+  {
+    "marketCap": 125400000,
+    "symbol": "HDNG"
+  },
+  {
+    "marketCap": 125400000,
+    "symbol": "SPAR"
+  },
+  {
+    "marketCap": 125500000,
+    "symbol": "WILN"
+  },
+  {
+    "marketCap": 125600000,
+    "symbol": "FENX"
+  },
+  {
+    "marketCap": 125600000,
+    "symbol": "SMMF"
+  },
+  {
+    "marketCap": 125600000,
+    "symbol": "ADHD"
+  },
+  {
+    "marketCap": 126200000,
+    "symbol": "PFBI"
+  },
+  {
+    "marketCap": 126300000,
+    "symbol": "GTXI"
+  },
+  {
+    "marketCap": 126400000,
+    "symbol": "MIRN"
+  },
+  {
+    "marketCap": 126500000,
+    "symbol": "ICBK"
+  },
+  {
+    "marketCap": 126500000,
+    "symbol": "STRS"
+  },
+  {
+    "marketCap": 126500000,
+    "symbol": "CVCY"
+  },
+  {
+    "marketCap": 126600000,
+    "symbol": "CCSC"
+  },
+  {
+    "marketCap": 127100000,
+    "symbol": "SGM"
+  },
+  {
+    "marketCap": 127200000,
+    "symbol": "TCON"
+  },
+  {
+    "marketCap": 127600000,
+    "symbol": "MCF"
+  },
+  {
+    "marketCap": 127900000,
+    "symbol": "ATAI"
+  },
+  {
+    "marketCap": 128600000,
+    "symbol": "CHMG"
+  },
+  {
+    "marketCap": 128699999.99999999,
+    "symbol": "IDI"
+  },
+  {
+    "marketCap": 128800000.00000001,
+    "symbol": "XENE"
+  },
+  {
+    "marketCap": 128800000.00000001,
+    "symbol": "ASPN"
+  },
+  {
+    "marketCap": 129100000,
+    "symbol": "MEET"
+  },
+  {
+    "marketCap": 129100000,
+    "symbol": "GLF"
+  },
+  {
+    "marketCap": 129300000.00000001,
+    "symbol": "III"
+  },
+  {
+    "marketCap": 129300000.00000001,
+    "symbol": "KBIO"
+  },
+  {
+    "marketCap": 129400000,
+    "symbol": "CDI"
+  },
+  {
+    "marketCap": 129699999.99999999,
+    "symbol": "JNP"
+  },
+  {
+    "marketCap": 129800000.00000001,
+    "symbol": "PACE"
+  },
+  {
+    "marketCap": 129900000,
+    "symbol": "SMMT"
+  },
+  {
+    "marketCap": 130400000,
+    "symbol": "GIFI"
+  },
+  {
+    "marketCap": 130500000,
+    "symbol": "LMIA"
+  },
+  {
+    "marketCap": 130600000,
+    "symbol": "TGA"
+  },
+  {
+    "marketCap": 130600000,
+    "symbol": "JONE"
+  },
+  {
+    "marketCap": 130800000.00000001,
+    "symbol": "TNXP"
+  },
+  {
+    "marketCap": 131400000,
+    "symbol": "CATB"
+  },
+  {
+    "marketCap": 131699999.99999999,
+    "symbol": "LUB"
+  },
+  {
+    "marketCap": 131699999.99999999,
+    "symbol": "MN"
+  },
+  {
+    "marketCap": 131900000,
+    "symbol": "GLYC"
+  },
+  {
+    "marketCap": 132000000,
+    "symbol": "CFFI"
+  },
+  {
+    "marketCap": 132199999.99999999,
+    "symbol": "PCO"
+  },
+  {
+    "marketCap": 132500000,
+    "symbol": "GCBC"
+  },
+  {
+    "marketCap": 132500000,
+    "symbol": "MBRG"
+  },
+  {
+    "marketCap": 132900000,
+    "symbol": "ACNB"
+  },
+  {
+    "marketCap": 133000000,
+    "symbol": "MLNK"
+  },
+  {
+    "marketCap": 133100000,
+    "symbol": "STML"
+  },
+  {
+    "marketCap": 133300000.00000001,
+    "symbol": "SNAK"
+  },
+  {
+    "marketCap": 133600000,
+    "symbol": "EMES"
+  },
+  {
+    "marketCap": 134000000,
+    "symbol": "ALIM"
+  },
+  {
+    "marketCap": 134199999.99999999,
+    "symbol": "SFST"
+  },
+  {
+    "marketCap": 134300000,
+    "symbol": "FPI"
+  },
+  {
+    "marketCap": 134500000,
+    "symbol": "SHBI"
+  },
+  {
+    "marketCap": 134600000,
+    "symbol": "CPSS"
+  },
+  {
+    "marketCap": 134900000,
+    "symbol": "LNCO"
+  },
+  {
+    "marketCap": 135000000,
+    "symbol": "SD"
+  },
+  {
+    "marketCap": 135500000,
+    "symbol": "KEM"
+  },
+  {
+    "marketCap": 135700000,
+    "symbol": "PLG"
+  },
+  {
+    "marketCap": 135900000,
+    "symbol": "GRIF"
+  },
+  {
+    "marketCap": 136100000,
+    "symbol": "PACEU"
+  },
+  {
+    "marketCap": 136100000,
+    "symbol": "BYLK"
+  },
+  {
+    "marketCap": 136100000,
+    "symbol": "SOL"
+  },
+  {
+    "marketCap": 136200000,
+    "symbol": "ZAIS"
+  },
+  {
+    "marketCap": 136700000,
+    "symbol": "ORM"
+  },
+  {
+    "marketCap": 136800000,
+    "symbol": "BWFG"
+  },
+  {
+    "marketCap": 137100000,
+    "symbol": "GEOS"
+  },
+  {
+    "marketCap": 137100000,
+    "symbol": "AVNU"
+  },
+  {
+    "marketCap": 137100000,
+    "symbol": "CFNB"
+  },
+  {
+    "marketCap": 137300000,
+    "symbol": "ZINC"
+  },
+  {
+    "marketCap": 137500000,
+    "symbol": "HFFC"
+  },
+  {
+    "marketCap": 137500000,
+    "symbol": "SQNM"
+  },
+  {
+    "marketCap": 137900000,
+    "symbol": "JAKK"
+  },
+  {
+    "marketCap": 138300000,
+    "symbol": "SMED"
+  },
+  {
+    "marketCap": 138500000,
+    "symbol": "SLI"
+  },
+  {
+    "marketCap": 138600000,
+    "symbol": "CIX"
+  },
+  {
+    "marketCap": 138900000,
+    "symbol": "ARQL"
+  },
+  {
+    "marketCap": 138900000,
+    "symbol": "NWY"
+  },
+  {
+    "marketCap": 139000000,
+    "symbol": "LGCY"
+  },
+  {
+    "marketCap": 139000000,
+    "symbol": "CHCT"
+  },
+  {
+    "marketCap": 139100000,
+    "symbol": "PLPM"
+  },
+  {
+    "marketCap": 139300000,
+    "symbol": "ICA"
+  },
+  {
+    "marketCap": 139600000,
+    "symbol": "ASMB"
+  },
+  {
+    "marketCap": 140200000,
+    "symbol": "RVLT"
+  },
+  {
+    "marketCap": 141000000,
+    "symbol": "ONFC"
+  },
+  {
+    "marketCap": 141000000,
+    "symbol": "SALM"
+  },
+  {
+    "marketCap": 141200000,
+    "symbol": "MRIN"
+  },
+  {
+    "marketCap": 141300000,
+    "symbol": "ASA"
+  },
+  {
+    "marketCap": 141500000,
+    "symbol": "TRIV"
+  },
+  {
+    "marketCap": 141700000,
+    "symbol": "EXK"
+  },
+  {
+    "marketCap": 141700000,
+    "symbol": "SAQ"
+  },
+  {
+    "marketCap": 142200000,
+    "symbol": "WLFC"
+  },
+  {
+    "marketCap": 143100000,
+    "symbol": "PZN"
+  },
+  {
+    "marketCap": 143200000,
+    "symbol": "FBIO"
+  },
+  {
+    "marketCap": 143600000,
+    "symbol": "GASS"
+  },
+  {
+    "marketCap": 143600000,
+    "symbol": "QLTI"
+  },
+  {
+    "marketCap": 143600000,
+    "symbol": "BIOS"
+  },
+  {
+    "marketCap": 143700000,
+    "symbol": "XONE"
+  },
+  {
+    "marketCap": 143800000,
+    "symbol": "GUA"
+  },
+  {
+    "marketCap": 144800000,
+    "symbol": "LXU"
+  },
+  {
+    "marketCap": 145000000,
+    "symbol": "RNWK"
+  },
+  {
+    "marketCap": 145300000,
+    "symbol": "ICD"
+  },
+  {
+    "marketCap": 145500000,
+    "symbol": "FGBI"
+  },
+  {
+    "marketCap": 145600000,
+    "symbol": "MBTF"
+  },
+  {
+    "marketCap": 146000000,
+    "symbol": "ORRF"
+  },
+  {
+    "marketCap": 146100000,
+    "symbol": "HCHC"
+  },
+  {
+    "marketCap": 146200000,
+    "symbol": "INBK"
+  },
+  {
+    "marketCap": 146800000,
+    "symbol": "SBLK"
+  },
+  {
+    "marketCap": 146900000,
+    "symbol": "RST"
+  },
+  {
+    "marketCap": 147600000,
+    "symbol": "CLCT"
+  },
+  {
+    "marketCap": 147700000,
+    "symbol": "CUI"
+  },
+  {
+    "marketCap": 147800000,
+    "symbol": "CARO"
+  },
+  {
+    "marketCap": 147900000,
+    "symbol": "RYI"
+  },
+  {
+    "marketCap": 148300000,
+    "symbol": "WLRH"
+  },
+  {
+    "marketCap": 148300000,
+    "symbol": "DGAS"
+  }
+]

@@ -1,0 +1,4 @@
+{
+  "dataPath": "./data/nasdaqlisted.txt",
+  "quickDataPath": "./data/quick.txt"
+}
